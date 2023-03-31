@@ -9,3 +9,6 @@ Authors : Sebastien Salva and Jarod Sue
 Title :   Automated Test Case Generation for Service Composition from Event Logs
 Number :  3716
 Track :   Software Process and Product Improvement
+
+
+Next update : automate regex, entry file and created tests arguments
