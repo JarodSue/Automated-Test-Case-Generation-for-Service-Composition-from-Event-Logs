@@ -1,0 +1,10 @@
+40.778300 , HTTP , POST , /sitemap.xml?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59444 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.779125 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59444
+40.994960 , HTTP , GET , path=/client , HTTP/1.1 , 59444 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.995661 , HTTP , HTTP/1.1 , status=302 , 8083 , 59444
+40.998676 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 59445 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+41.000240 , HTTP , GET , path=/client/Products , HTTP/1.1 , 59446 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+41.002405 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59447 , 8081 , Java/16.0.1
+41.002871 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 59448 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+41.104640 , HTTP , HTTP/1.1 , status=200 , 8081 , 59448
+41.105513 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 59449 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1

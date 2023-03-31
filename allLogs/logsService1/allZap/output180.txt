@@ -1,0 +1,10 @@
+79.973888 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60177
+79.981194 , TLSv1.3 , Application Data , 60177 , 53856
+79.987804 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60178
+79.994013 , TLSv1.3 , Application Data , 60178 , 53856
+80.072754 , HTTP , CONNECT firefox.settings.services.mozilla.com:443 , HTTP/1.1 , 60179 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.073189 , HTTP , CONNECT firefox.settings.services.mozilla.com:443 , HTTP/1.1 , 60180 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.073238 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60179
+80.073974 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60180
+80.074585 , TLSv1.3 , Client Hello , 60179 , 53856
+80.075293 , TLSv1.3 , Client Hello , 60180 , 53856

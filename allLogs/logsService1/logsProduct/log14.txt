@@ -1,0 +1,4 @@
+78.661230 , HTTP , GET , path=prod/Admin/Products , 56308 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+2.101156 , HTTP , GET , path=/ident/TokenVerification , 8080 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+2.107247 , HTTP , status=200 , 8081 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+78.979440 , HTTP/JSON , status=200 , body=[] , 8080 , 56308

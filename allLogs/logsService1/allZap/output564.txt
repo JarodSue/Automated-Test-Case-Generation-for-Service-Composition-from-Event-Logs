@@ -1,0 +1,10 @@
+135.538412 , HTTP , GET , /composer.lock , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.539112 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.539726 , HTTP , GET , /vim_settings.xml , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.540391 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.541025 , HTTP , GET , /server-info , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.541705 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.542307 , HTTP , GET , /phpinfo.php , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.542930 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.543916 , HTTP , GET , /info.php , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.544658 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931

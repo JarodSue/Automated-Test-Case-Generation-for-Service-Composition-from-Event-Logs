@@ -1,0 +1,10 @@
+140.284534 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8080 , 61082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDQiLCJpZCI6MzA0LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.Z6FjP3ASMnlvdiD-jXfqyBD8tO3ntiOYPNsFalhJJY-fKWfAXz5y34RXh-ZuGz5Av19x-vK6-7yk5f2fiurv0g
+140.287509 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 61092 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDQiLCJpZCI6MzA0LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.Z6FjP3ASMnlvdiD-jXfqyBD8tO3ntiOYPNsFalhJJY-fKWfAXz5y34RXh-ZuGz5Av19x-vK6-7yk5f2fiurv0g , Java/16.0.1
+140.451671 , HTTP , HTTP/1.1 , status=200 , 8081 , 61091
+140.452534 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 61093 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+140.454409 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61094 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+140.455547 , HTTP , HTTP/1.1 , status=200 , 8081 , 61092
+140.456084 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 60983 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDQiLCJpZCI6MzA0LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.Z6FjP3ASMnlvdiD-jXfqyBD8tO3ntiOYPNsFalhJJY-fKWfAXz5y34RXh-ZuGz5Av19x-vK6-7yk5f2fiurv0g
+140.456943 , HTTP/JSON , POST , path=/client/Products/1/buy , HTTP/1.1 , JavaScript Object Notation (application/json) , 60983 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+140.457945 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61095 , 8081 , Java/16.0.1
+140.612103 , HTTP , HTTP/1.1 , status=200 , 8081 , 61095 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDUiLCJpZCI6MzA1LCJleHAiOjE2NzUzNTMzNDYsImlhdCI6MTY3NTI2Njk0Nn0.qZVxz1c5kQ_4n69f5Ew_udu1YCcDyTYLohb0EEqTU6BAq26zNy2k9Tfoa7ZOB98ocTzYZGYtdKDsQqb914ilhw

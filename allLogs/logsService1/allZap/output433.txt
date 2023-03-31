@@ -1,0 +1,10 @@
+101.736172 , HTTP , GET , /?name=abc , HTTP/1.1 , 60275 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+101.738203 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60275
+101.738973 , HTTP , HTTP/1.1 , status=200 , (text/html) , 53856 , 60274
+101.756880 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+101.758512 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/elements , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+101.780664 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+101.781340 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+101.782441 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+101.782850 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/168e4f16-36b7-4fc7-b6ef-77ce22b00c60/name , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+101.787102 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152

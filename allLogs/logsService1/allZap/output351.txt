@@ -1,0 +1,10 @@
+92.041012 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/elements , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+92.048879 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+92.049733 , HTTP , GET , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/alert/text , HTTP/1.1 , 60153 , 6455 , selenium/unknown (java windows)
+92.051034 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 6455 , 60153
+92.052789 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+92.055066 , TLSv1.3 , Application Data , Application Data , 53856 , 60202
+92.061104 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+92.061651 , HTTP , GET , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/alert/text , HTTP/1.1 , 60153 , 6455 , selenium/unknown (java windows)
+92.062773 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 6455 , 60153
+92.064125 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152

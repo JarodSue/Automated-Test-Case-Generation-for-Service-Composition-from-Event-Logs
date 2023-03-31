@@ -1,0 +1,10 @@
+92.477611 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+92.477924 , HTTP , GET , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/alert/text , HTTP/1.1 , 60153 , 6455 , selenium/unknown (java windows)
+92.478832 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 6455 , 60153
+92.480422 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+92.481639 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+92.483391 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/890dcf6a-1f8a-4955-8d4a-5e19f072227dpath=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+92.484915 , HTTP , GET , path=http://localhost:8083path=/favicon.ico?name=abc , HTTP/1.1 , 60235 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+92.486192 , HTTP , GET , path=/favicon.ico?name=abc , HTTP/1.1 , 60257 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+92.487476 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 60257
+92.488464 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 53856 , 60235

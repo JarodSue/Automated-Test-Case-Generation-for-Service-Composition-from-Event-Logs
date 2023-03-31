@@ -1,0 +1,10 @@
+144.029970 , HTTP , GET , path=/client/Products/1 , HTTP/1.1 , 61181 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"
+144.030764 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61189 , 8081 , Java/16.0.1
+144.081468 , HTTP , HTTP/1.1 , status=200 , 8081 , 61184 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMjMiLCJpZCI6MzIzLCJleHAiOjE2NzUzNTMzNDksImlhdCI6MTY3NTI2Njk0OX0.9VwHYyQ5JOjoiTzqu8Yt8lwqlfZpSRQV75EsLt5wL9lfsmENVUcRXPJ-grHLu0uLMs1YfW4Ohn5shcTGqiNxSA
+144.083250 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 61183
+144.090691 , HTTP , GET , path=/client/Products , HTTP/1.1 , 61190 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/75.0.3739.0 Safari/537.36 Edg/75.0.109.0"
+144.091653 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61191 , 8081 , Java/16.0.1
+144.178667 , HTTP , HTTP/1.1 , status=200 , 8081 , 61189 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMjQiLCJpZCI6MzI0LCJleHAiOjE2NzUzNTMzNDksImlhdCI6MTY3NTI2Njk0OX0.l_cvMQwDJI-WosuBTy9papuwqF8IG2TOmO_P0Pk10RLDheSJwilkjv92lZBXoVcCQ_adhzYKZXUYj9np-41wxQ
+144.179720 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61192 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMjQiLCJpZCI6MzI0LCJleHAiOjE2NzUzNTMzNDksImlhdCI6MTY3NTI2Njk0OX0.l_cvMQwDJI-WosuBTy9papuwqF8IG2TOmO_P0Pk10RLDheSJwilkjv92lZBXoVcCQ_adhzYKZXUYj9np-41wxQ , Java/16.0.1
+144.181782 , HTTP , HTTP/1.1 , status=200 , 8081 , 61192 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMjQiLCJpZCI6MzI0LCJleHAiOjE2NzUzNTMzNDksImlhdCI6MTY3NTI2Njk0OX0.l_cvMQwDJI-WosuBTy9papuwqF8IG2TOmO_P0Pk10RLDheSJwilkjv92lZBXoVcCQ_adhzYKZXUYj9np-41wxQ
+144.182461 , HTTP , GET , path=/prod/Products/1 , HTTP/1.1 , 61193 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMjQiLCJpZCI6MzI0LCJleHAiOjE2NzUzNTMzNDksImlhdCI6MTY3NTI2Njk0OX0.l_cvMQwDJI-WosuBTy9papuwqF8IG2TOmO_P0Pk10RLDheSJwilkjv92lZBXoVcCQ_adhzYKZXUYj9np-41wxQ , Java/16.0.1

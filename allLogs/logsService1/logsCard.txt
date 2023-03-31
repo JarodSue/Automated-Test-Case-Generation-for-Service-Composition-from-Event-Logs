@@ -1,0 +1,62 @@
+12.610731 , HTTP/JSON , POST , path=/pay/Card/ajout , body={"money":5000} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+12.610730 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+12.610730 , HTTP , status=200 , 8081 , 8082
+12.610731 , HTTP/JSON , status=200 , body={"id":1,"money":5000} , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+14.610734 , HTTP/JSON , POST , path=/pay/Card/ajout , body={"money":5000} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+14.610730 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+14.610730 , HTTP , status=200 , 8081 , 8082
+14.610731 , HTTP/JSON , status=200 , body={"id":2,"money":5000} , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+26.610734 , HTTP/JSON , POST , path=/pay/Card/ajout , body={"id":3,"money":5000} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+26.610736 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+27.610730 , HTTP , status=200 , 8081 , 8082
+27.610732 , HTTP/JSON , status=200 , body={"id":3,"money":5000} , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+35.610736 , HTTP/JSON , POST , path=/pay/Card/ajout , body={"money":-61073} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+35.610734 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+35.610736 , HTTP , status=200 , 8081 , 8082
+35.610734 , HTTP/JSON , status=200 , body={"id":4,"money":-61073} , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+48.610734 , HTTP/JSON , POST , path=/pay/Card/ajout , body={"id":1,"money":5000} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+48.610736 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+48.610736 , HTTP , status=200 , 8081 , 8082
+48.610734 , HTTP/JSON , status=400 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products"} , 8082 , 61073
+59.610730 , HTTP , GET , path=/pay/Card/100/1 , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+59.610730 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+60.610737 , HTTP , status=200 , 8081 , 8082
+60.610730 , HTTP , status=200 , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+63.610731 , HTTP , GET , path=/pay/Card/100/4 , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+63.610731 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+63.610739 , HTTP , status=200 , 8081 , 8082
+63.610731 , HTTP , status=400 , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+67.610735 , HTTP , GET , path=/pay/Card/610730/1 , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+67.610737 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+67.610733 , HTTP , status=200 , 8081 , 8082
+67.610731 , HTTP , status=400 , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+80.610737 , HTTP/JSON , PUT , path=/pay/Card , body={"id":4,"money":61073} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+80.610734 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+81.610732 , HTTP , status=200 , 8081 , 8082
+81.610730 , HTTP/JSON , status=200 , body={"id":4,"money":61073} , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+91.610735 , HTTP , GET , path=/pay/Card/100/4 , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+91.610737 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+91.610734 , HTTP , status=200 , 8081 , 8082
+91.610736 , HTTP , status=200 , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+100.610738 , HTTP/JSON , PUT , path=/pay/Card , body={"id":18,"money":61073} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+100.610738 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+100.610738 , HTTP , status=200 , 8081 , 8082
+100.610730 , HTTP/JSON , status=404 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products"} , 8082 , 61073
+105.610730 , HTTP/JSON , PUT , path=/pay/Card , body={"money":61073} , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+105.610738 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+105.610735 , HTTP , status=200 , 8081 , 8082
+105.610734 , HTTP/JSON , status=404 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products"} , 8082 , 61073
+115.610730 , HTTP , DELETE , path=/pay/Card/delete/2 , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+115.610738 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+115.610732 , HTTP , status=200 , 8081 , 8082
+115.610734 , HTTP , status=200 , 8082 , 61073 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+117.610734 , HTTP , DELETE , path=/pay/Card/delete/2 , 61073 , 8082 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+117.610730 , HTTP , GET , path=/ident/TokenVerification , 8082 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTY3ODQ1MTU3OCwiaWF0IjoxNjc4MzY1MTc4fQ.iNqFeICxMUFqyssFLHGRc4x-CDr2qpM7n1lHURCERKa6t882HRh3RVhkx6XH7zSzwcivc9TQytnkgT0eno_nXQ
+117.610732 , HTTP , status=200 , 8081 , 8082
+117.610739 , HTTP/JSON , status=404 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products"} , 8082 , 61073
+144.610733 , HTTP/JSON , PUT , path=/pay/Card , body={"id":1,"money":61073} , 61073 , 8082
+144.610735 , HTTP/JSON , status=401 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products"} , 8082 , 61073
+153.610739 , HTTP , DELETE , path=/pay/Card/delete/1 , 61073 , 8082
+153.610731 , HTTP/JSON , status=401 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products"} , 8082 , 61073
+183.610732 , HTTP/JSON , POST , path=/pay/Card/ajout , body={"money":61073} , 61073 , 8082
+183.610732 , HTTP/JSON , status=401 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products"} , 8082 , 61073

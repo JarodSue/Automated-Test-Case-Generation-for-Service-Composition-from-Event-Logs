@@ -1,0 +1,10 @@
+135.244828 , HTTP , HTTP/1.1 , status=200 , 8081 , 60928 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNzgiLCJpZCI6Mjc4LCJleHAiOjE2NzUzNTMzNDEsImlhdCI6MTY3NTI2Njk0MX0.awPcluPKSgF6tyQA4zAVJKoF302YU44LmY-Vw9wFzGqnJ_9OZf4oqiJAAM09wfxV5tp_CY2CfJmIqkZIDkTNsg
+135.245944 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60927
+135.247833 , HTTP , GET , path=/client/Products/.env , HTTP/1.1 , 60929 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.248741 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60930 , 8081 , Java/16.0.1
+135.390263 , HTTP , HTTP/1.1 , status=200 , 8081 , 60930 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNzkiLCJpZCI6Mjc5LCJleHAiOjE2NzUzNTMzNDEsImlhdCI6MTY3NTI2Njk0MX0.UHd9LkoOKl_sZHmGSHIwDeGP8OLLlL1QBx97e-6LAnN1AfSXDEz_NfM06JqSTTdVV4z9UT_mIZWPTCDdnjlYeQ
+135.391703 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 60929
+135.457285 , HTTP , GET , /lfm.php , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.458209 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.459028 , HTTP , GET , /.idea/WebServers.xml , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.459890 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931

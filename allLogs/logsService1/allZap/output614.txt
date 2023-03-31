@@ -1,0 +1,10 @@
+142.897860 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61160 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+142.905975 , HTTP , HTTP/1.1 , status=200 , 8081 , 61158 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMTYiLCJpZCI6MzE2LCJleHAiOjE2NzUzNTMzNDgsImlhdCI6MTY3NTI2Njk0OH0.-P-1uBhxRu_THJCUEgddYszh1rG2D4IuW3EGIPaTO6xP2J6TIzVPg18VgOdbqVvkK07GxPNvTT5H5o10tsjGwA
+142.907114 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61157
+142.916914 , HTTP , GET , path=/client , HTTP/1.1 , 61161 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/91.0"
+142.917292 , HTTP , HTTP/1.1 , status=302 , 8083 , 61161
+142.918776 , HTTP , GET , path=/client/ , HTTP/1.1 , 61162 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/91.0"
+142.919616 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61163 , 8081 , Java/16.0.1
+143.062031 , HTTP , HTTP/1.1 , status=200 , 8081 , 61160
+143.063685 , HTTP , HTTP/1.1 , status=200 , 8080 , 61159 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw
+143.064331 , HTTP , HTTP/1.1 , status=200 , 8083 , 61154 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw

@@ -1,0 +1,10 @@
+138.445297 , HTTP , HTTP/1.1 , status=200 , 8081 , 61009 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyODgiLCJpZCI6Mjg4LCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.naXfWvTdpx4UImfY9vkBfQdA_tmVUsTJqYJB8uUMmJQZWUZZgGW23cjryt4MnqSSy6Gvkhs2p1BIuja-VfkDMA
+138.448317 , HTTP , HTTP/1.1 , status=200 , 8082 , 61008 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyODgiLCJpZCI6Mjg4LCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.naXfWvTdpx4UImfY9vkBfQdA_tmVUsTJqYJB8uUMmJQZWUZZgGW23cjryt4MnqSSy6Gvkhs2p1BIuja-VfkDMA
+138.449945 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8080 , 61006 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyODgiLCJpZCI6Mjg4LCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.naXfWvTdpx4UImfY9vkBfQdA_tmVUsTJqYJB8uUMmJQZWUZZgGW23cjryt4MnqSSy6Gvkhs2p1BIuja-VfkDMA
+138.450788 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 61010 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyODgiLCJpZCI6Mjg4LCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.naXfWvTdpx4UImfY9vkBfQdA_tmVUsTJqYJB8uUMmJQZWUZZgGW23cjryt4MnqSSy6Gvkhs2p1BIuja-VfkDMA , Java/16.0.1
+138.454536 , HTTP , HTTP/1.1 , status=200 , 8081 , 61010
+138.455046 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 60983 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyODgiLCJpZCI6Mjg4LCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.naXfWvTdpx4UImfY9vkBfQdA_tmVUsTJqYJB8uUMmJQZWUZZgGW23cjryt4MnqSSy6Gvkhs2p1BIuja-VfkDMA
+138.456041 , HTTP/JSON , POST , path=/client/Products/1/buy , HTTP/1.1 , JavaScript Object Notation (application/json) , 60983 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko"
+138.456997 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61011 , 8081 , Java/16.0.1
+138.514338 , HTTP , HTTP/1.1 , status=200 , 8081 , 61004 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyODkiLCJpZCI6Mjg5LCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.a5Pi6RW8cE6mvjxquHZ0jl51Y1gUVueXqRxuSXiytJVV_UnIeXiFf3vI-z3KogHuTYJ3Meptzkv7hTcoP4-pDg
+138.515706 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61003

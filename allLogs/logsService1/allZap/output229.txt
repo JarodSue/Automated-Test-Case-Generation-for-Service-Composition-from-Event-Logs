@@ -1,0 +1,10 @@
+83.795995 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+83.796093 , HTTP , GET , path=http://localhost:8083/manager/status , HTTP/1.1 , 60188 , 53856 , Basic Og== , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+83.796956 , HTTP , GET , /manager/status , HTTP/1.1 , 60196 , 8083 , Basic Og== , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+83.797573 , HTTP , HTTP/1.1 , status=401 , (text/html) , 8083 , 60196
+83.797932 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/element/3d273030-12ac-4cd2-9005-4cb849830770path=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+83.798594 , HTTP , HTTP/1.1 , status=401 , (text/html) , 53856 , 60188
+83.815741 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+83.816368 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/b10077aa-5065-4b9a-bdee-96dc555a4f25/name , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.821481 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+83.822400 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)

@@ -1,0 +1,10 @@
+81.183933 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+81.185709 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+81.196194 , HTTP , GET , path=http://localhost:8083path=/client/Products/1/buy , HTTP/1.1 , 60200 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.197716 , HTTP , GET , path=/client/Products/1/buy , HTTP/1.1 , 60199 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.198722 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60201 , 8081 , Java/16.0.1
+81.356504 , HTTP , HTTP/1.1 , status=200 , 8081 , 60201 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNDMiLCJpZCI6MjQzLCJleHAiOjE2NzUzNTMyODcsImlhdCI6MTY3NTI2Njg4N30.uJKUJZpbZg5DsrFHc13CfrymQjg82fXZLvhY2h4VBESnrHrfffX0Vvb1eQUCi9ee73cO9zE4dBvx7FkFmLcD2A
+81.383735 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+81.385973 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+81.391792 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+81.393625 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/elements , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)

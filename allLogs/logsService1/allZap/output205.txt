@@ -1,0 +1,10 @@
+82.091211 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/element/59597ffb-8eae-42cd-8ae7-0044945ff99fpath=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+82.116374 , TLSv1.3 , Application Data , Application Data , Application Data , 53856 , 60204
+82.116428 , TLSv1.3 , Application Data , Application Data , Application Data , 53856 , 60204
+82.118899 , TLSv1.3 , Application Data , 60210 , 53856
+82.127540 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+82.129379 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+82.131942 , TLSv1.3 , Application Data , 60210 , 53856
+82.133830 , HTTP , GET , path=http://localhost:8083/ , HTTP/1.1 , 60189 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+82.134542 , HTTP , GET , / , HTTP/1.1 , 60199 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+82.135454 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60199

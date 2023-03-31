@@ -1,0 +1,10 @@
+142.417395 , HTTP , HTTP/1.1 , status=302 , 8083 , 61144
+142.418282 , HTTP , GET , path=/client/ , HTTP/1.1 , 61145 , 8083 , "Mozilla/5.0 (compatible; Yahoo! Slurp; path=http://help.yahoo.com/help/us/ysearch/slurp)"
+142.419033 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61146 , 8081 , Java/16.0.1
+142.421850 , HTTP , HTTP/1.1 , status=200 , 8081 , 61143
+142.423744 , HTTP , HTTP/1.1 , status=200 , 8080 , 61142 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw
+142.424822 , HTTP , HTTP/1.1 , status=200 , 8083 , 61137 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw
+142.427158 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 61147 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML , like Gecko) Versionpath=/4.0 Mobile/7A341 Safari/528.16"
+142.428494 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61148 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+142.572623 , HTTP , HTTP/1.1 , status=200 , 8081 , 61146 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMTQiLCJpZCI6MzE0LCJleHAiOjE2NzUzNTMzNDgsImlhdCI6MTY3NTI2Njk0OH0.o5KCWi4X_hIV2k03RAP9xe2SwJMweJWxQMqDvGyg7EkCGtYzeFsWr21e7UAz6JPA643xx2m57zlSYvDdjjDpWQ
+142.573834 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61145

@@ -1,0 +1,10 @@
+81.872795 , TLSv1.3 , Application Data , 53856 , 60202
+81.873241 , TLSv1.3 , Client Hello , 60211 , 53856
+81.899766 , TLSv1.3 , Application Data , Application Data , 53856 , 60205
+81.935016 , TLSv1.3 , Application Data , Application Data , 53856 , 60206
+81.988579 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60211
+81.988958 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60210
+81.992799 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60209
+81.999044 , TLSv1.3 , Change Cipher Spec , Application Data , 60211 , 53856
+81.999239 , TLSv1.3 , Application Data , 60211 , 53856
+82.000040 , TLSv1.3 , Application Data , 53856 , 60211

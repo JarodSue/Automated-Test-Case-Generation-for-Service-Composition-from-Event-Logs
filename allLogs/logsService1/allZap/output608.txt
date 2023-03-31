@@ -1,0 +1,10 @@
+141.933577 , HTTP , GET , path=/client , HTTP/1.1 , 61129 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/75.0.3739.0 Safari/537.36 Edg/75.0.109.0"
+141.933859 , HTTP , HTTP/1.1 , status=302 , 8083 , 61129
+141.934774 , HTTP , GET , path=/client/ , HTTP/1.1 , 61130 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/75.0.3739.0 Safari/537.36 Edg/75.0.109.0"
+141.935434 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61131 , 8081 , Java/16.0.1
+141.954875 , HTTP , HTTP/1.1 , status=200 , 8081 , 61128
+141.955788 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 61132 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+141.958039 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61133 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+142.084163 , HTTP , HTTP/1.1 , status=200 , 8081 , 61131 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMTEiLCJpZCI6MzExLCJleHAiOjE2NzUzNTMzNDcsImlhdCI6MTY3NTI2Njk0N30.jGOmRxXHpl1ghroEzlEFEgwU-5mGUC_ay2eFkAMV4EcZCJHkKxIywuDQ6clV7RxPS6vL13B1XE4aAX9qYOCn9w
+142.085332 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61130
+142.093247 , HTTP , GET , path=/client , HTTP/1.1 , 61134 , 8083 , "Mozilla/5.0 (compatible; Googlebot/2.1; +path=http://www.google.com/bot.html)"

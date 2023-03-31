@@ -1,0 +1,10 @@
+80.968777 , HTTP , HTTP/1.1 , status=200 , (PNG) , 53856 , 60194
+80.968822 , HTTP , HTTP/1.1 , status=200 , (PNG) , 53856 , 60195
+80.973911 , HTTP , GET , path=http://localhost:8083path=/favicon.ico , HTTP/1.1 , 60189 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.974672 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 60199 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.975866 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 60199
+80.976616 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 53856 , 60189
+81.094034 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+81.094820 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+81.098441 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+81.100561 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/elements , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)

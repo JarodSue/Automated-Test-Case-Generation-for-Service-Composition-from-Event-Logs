@@ -1,0 +1,10 @@
+92.276208 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 60255 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTUiLCJpZCI6MjU1LCJleHAiOjE2NzUzNTMyOTgsImlhdCI6MTY3NTI2Njg5OH0.ixfziCf13HhsE5Zs0JcmF20v69dZfZ8ZJG0_6W4-kvKMobhZvy5LoBmYUiaqn2i9uF7Wb9Q1WUfJNmbQfQB1Nw , Java/16.0.1
+92.277267 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+92.279726 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/execute/sync , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+92.281034 , HTTP , HTTP/1.1 , status=200 , 8081 , 60255
+92.281851 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60248 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTUiLCJpZCI6MjU1LCJleHAiOjE2NzUzNTMyOTgsImlhdCI6MTY3NTI2Njg5OH0.ixfziCf13HhsE5Zs0JcmF20v69dZfZ8ZJG0_6W4-kvKMobhZvy5LoBmYUiaqn2i9uF7Wb9Q1WUfJNmbQfQB1Nw
+92.283194 , HTTP , HTTP/1.1 , status=200 , (text/html) , 53856 , 60235 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTUiLCJpZCI6MjU1LCJleHAiOjE2NzUzNTMyOTgsImlhdCI6MTY3NTI2Njg5OH0.ixfziCf13HhsE5Zs0JcmF20v69dZfZ8ZJG0_6W4-kvKMobhZvy5LoBmYUiaqn2i9uF7Wb9Q1WUfJNmbQfQB1Nw
+92.287953 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+92.290816 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/execute/sync , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+92.296493 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+92.297042 , HTTP , GET , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/alert/text , HTTP/1.1 , 60153 , 6455 , selenium/unknown (java windows)

@@ -1,0 +1,10 @@
+83.610975 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.611892 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+83.612928 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.613838 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+83.615426 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/accept , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+83.622094 , HTTP , GET , path=http://localhost:8083/manager/html , HTTP/1.1 , 60191 , 53856 , Basic Og== , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+83.622974 , HTTP , GET , /manager/html , HTTP/1.1 , 60196 , 8083 , Basic Og== , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+83.624128 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+83.624725 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/13dfea69-3731-484e-b99e-d8763644787e/name , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.626576 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152

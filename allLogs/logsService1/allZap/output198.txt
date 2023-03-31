@@ -1,0 +1,10 @@
+81.789675 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+81.792148 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/execute/sync , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+81.799506 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+81.801317 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/element/befc8de7-4406-44e2-881a-eac995f778a0path=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+81.838554 , TLSv1.3 , Application Data , 53856 , 60206
+81.846036 , TLSv1.3 , Application Data , 53856 , 60205
+81.846509 , HTTP , CONNECT www.apache.org:443 , HTTP/1.1 , 60204 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.846605 , TLSv1.3 , Application Data , 60202 , 53856
+81.846679 , TLSv1.3 , Application Data , 60206 , 53856
+81.846967 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60204

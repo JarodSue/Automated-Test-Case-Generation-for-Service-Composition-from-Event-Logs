@@ -1,0 +1,10 @@
+135.460647 , HTTP , GET , /config/databases.yml , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.461499 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.462187 , HTTP , GET , /config/database.yml , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.462976 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.463709 , HTTP , GET , /.git/config , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.464559 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.465265 , HTTP , GET , /.svn/entries , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.466140 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.467518 , HTTP , GET , /.svn/wc.db , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.468422 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931

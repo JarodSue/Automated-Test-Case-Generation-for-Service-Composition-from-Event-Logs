@@ -1,0 +1,10 @@
+145.536996 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko"
+145.537616 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.538379 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/75.0.3739.0 Safari/537.36 Edg/75.0.109.0"
+145.538844 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.539772 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (compatible; Googlebot/2.1; +path=http://www.google.com/bot.html)"
+145.540202 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.540783 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083msnbot/1.1 (+path=http://search.msn.com/msnbot.htm)
+145.541198 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.541764 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (compatible; Yahoo! Slurp; path=http://help.yahoo.com/help/us/ysearch/slurp)"
+145.542159 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251

@@ -1,0 +1,10 @@
+40.569018 , HTTP , POST , path=/favicon.ico?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59444 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.570511 , HTTP , POST , /robots.txt?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59445 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.573600 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59445
+40.574017 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 59444
+40.576340 , HTTP , POST , /robots.txt?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59444 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.577229 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59444
+40.590253 , HTTP , POST , path=/favicon.ico?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59444 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.592075 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 59444
+40.772823 , HTTP , POST , /sitemap.xml?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59444 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.775661 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59444

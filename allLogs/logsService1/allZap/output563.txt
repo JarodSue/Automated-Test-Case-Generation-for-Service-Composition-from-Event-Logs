@@ -1,0 +1,10 @@
+135.525314 , HTTP , GET , /adminer.php , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.526366 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.530541 , HTTP , GET , /vb_test.php , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.531357 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.532116 , HTTP , GET , /CHANGELOG.txt , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.533028 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.534167 , HTTP , GET , /sites/default/files/.ht.sqlite , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.535014 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.536159 , HTTP , GET , /composer.json , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.537392 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931

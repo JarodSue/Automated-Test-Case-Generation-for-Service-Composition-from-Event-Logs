@@ -1,0 +1,10 @@
+108.198691 , HTTP , HTTP/1.1 , status=200 , 8081 , 60327 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTciLCJpZCI6MjU3LCJleHAiOjE2NzUzNTMzMTMsImlhdCI6MTY3NTI2NjkxM30.GbFwfzHbZuIY9Pk-qgnIliZEyScSv3umdxkJc-vRyYB_Yxjgeo47pJzjffkwcM_vQzqKxmW8hhSRP547_MhaBA
+108.199906 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60325
+108.235310 , HTTP , HTTP/1.1 , status=200 , 8081 , 60330
+108.236124 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 60331 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+108.238477 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 60332 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+108.395781 , HTTP , HTTP/1.1 , status=200 , 8081 , 60332
+108.446003 , HTTP , HTTP/1.1 , status=500 , (text/html) , 8080 , 60331
+108.447252 , HTTP , HTTP/1.1 , status=200 , 8083 , 60329
+108.449521 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 60333 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+108.451535 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 60334 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1

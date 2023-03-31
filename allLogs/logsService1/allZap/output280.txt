@@ -1,0 +1,10 @@
+86.682969 , HTTP , GET , path=http://localhost:8083/ , HTTP/1.1 , 60220 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+86.683737 , HTTP , GET , / , HTTP/1.1 , 60221 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+86.684526 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60221
+86.685590 , HTTP , HTTP/1.1 , status=200 , (text/html) , 53856 , 60220
+86.706221 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+86.708175 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/elements , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+86.729106 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+86.730171 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+86.732317 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+86.733218 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/e997b7ab-2ea4-4b87-b292-9580f4904e95/name , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)

@@ -1,0 +1,10 @@
+39.919576 , HTTP , HTTP/1.1 , status=200 , 8081 , 59429 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMjAiLCJpZCI6MjIwLCJleHAiOjE2NzUzNTMyNDUsImlhdCI6MTY3NTI2Njg0NX0.Zs5H-dGc31U5Z472fa1YXohlAEn-AhQzwMJUVpfk_xjLwth1HQYw6e4xS0klfT1JUTR13kVnahMUKKdjNGqzgA
+39.921147 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 59428
+39.922767 , HTTP , POST , path=/client/Products?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59430 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.923698 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59431 , 8081 , Java/16.0.1
+39.988368 , HTTP , GET , path=/client/Products , HTTP/1.1 , 59433 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.988384 , HTTP , POST , path=/client?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59432 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.988821 , HTTP , HTTP/1.1 , status=302 , 8083 , 59432
+39.989337 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59434 , 8081 , Java/16.0.1
+39.990978 , HTTP , POST , path=/client?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59435 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.991528 , HTTP , HTTP/1.1 , status=302 , 8083 , 59435

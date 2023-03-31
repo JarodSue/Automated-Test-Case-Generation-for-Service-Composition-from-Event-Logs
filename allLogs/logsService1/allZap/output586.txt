@@ -1,0 +1,10 @@
+138.801093 , HTTP , HTTP/1.1 , status=200 , 8081 , 61027 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTIiLCJpZCI6MjkyLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.QcOccTelZ4OutIYyUuN82GBpuWoPGOhwb1OUmY3nL8RX4kl20ZG3YDf9yt4jyOZR7DyzCsw9VQSh2pDMcMfbDA
+138.835067 , HTTP , HTTP/1.1 , status=200 , 8082 , 61026 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTIiLCJpZCI6MjkyLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.QcOccTelZ4OutIYyUuN82GBpuWoPGOhwb1OUmY3nL8RX4kl20ZG3YDf9yt4jyOZR7DyzCsw9VQSh2pDMcMfbDA
+138.836632 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8080 , 61024 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTIiLCJpZCI6MjkyLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.QcOccTelZ4OutIYyUuN82GBpuWoPGOhwb1OUmY3nL8RX4kl20ZG3YDf9yt4jyOZR7DyzCsw9VQSh2pDMcMfbDA
+138.837552 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 61028 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTIiLCJpZCI6MjkyLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.QcOccTelZ4OutIYyUuN82GBpuWoPGOhwb1OUmY3nL8RX4kl20ZG3YDf9yt4jyOZR7DyzCsw9VQSh2pDMcMfbDA , Java/16.0.1
+138.840292 , HTTP , HTTP/1.1 , status=200 , 8081 , 61022 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTMiLCJpZCI6MjkzLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.-JH4Cg7VOuIe1DMeHOm5iVSblyH3JzIsjEvMD3TwSjYt2Ju9NAuFRWZgeIpRmH28q7Q0RrbQM80zTGhj1mpOBQ
+138.841342 , HTTP , HTTP/1.1 , status=200 , 8081 , 61028
+138.841805 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 60983 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTIiLCJpZCI6MjkyLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.QcOccTelZ4OutIYyUuN82GBpuWoPGOhwb1OUmY3nL8RX4kl20ZG3YDf9yt4jyOZR7DyzCsw9VQSh2pDMcMfbDA
+138.842113 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61021
+138.842620 , HTTP/JSON , POST , path=/client/Products/1/buy , HTTP/1.1 , JavaScript Object Notation (application/json) , 60983 , 8083 , "Mozilla/5.0 (compatible; Googlebot/2.1; +path=http://www.google.com/bot.html)"
+138.843638 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61029 , 8081 , Java/16.0.1

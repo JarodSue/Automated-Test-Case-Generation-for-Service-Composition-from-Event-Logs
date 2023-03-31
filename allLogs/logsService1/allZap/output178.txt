@@ -1,0 +1,10 @@
+78.421224 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 60090 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+78.423440 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 60090
+78.493413 , HTTP/JSON , POST , path=/session , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+78.493453 , HTTP/JSON , POST , path=/session , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+79.830674 , HTTP , CONNECT search.services.mozilla.com:443 , HTTP/1.1 , 60175 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+79.831750 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60175
+79.833332 , TLSv1.3 , Client Hello , 60175 , 53856
+79.841429 , HTTP , CONNECT search.services.mozilla.com:443 , HTTP/1.1 , 60176 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+79.861466 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60175
+79.862914 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60176

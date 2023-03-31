@@ -1,0 +1,10 @@
+143.229269 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61170 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+143.239757 , HTTP , HTTP/1.1 , status=200 , 8081 , 61168 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMTgiLCJpZCI6MzE4LCJleHAiOjE2NzUzNTMzNDksImlhdCI6MTY3NTI2Njk0OX0.8YTg2ql_ovIopgddT3cqb3y4b-gNNe5cTnnP2mUT5z195lRwbo7q-6O_iLPWCRZy0Fj0k3Qr1jKN_L78Zw0GQg
+143.240906 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61167
+143.379704 , HTTP , HTTP/1.1 , status=200 , 8081 , 61170
+143.385328 , HTTP , HTTP/1.1 , status=200 , 8080 , 61169 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw
+143.387218 , HTTP , HTTP/1.1 , status=200 , 8083 , 61164 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw
+143.391616 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 61171 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+143.395117 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61172 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+143.449136 , HTTP , GET , path=/client/Products , HTTP/1.1 , 61173 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 8.0; Windows NT 6.1)"
+143.449989 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61174 , 8081 , Java/16.0.1

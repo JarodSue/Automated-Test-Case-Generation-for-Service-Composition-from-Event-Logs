@@ -1,0 +1,88 @@
+10.243436 , HTTP/JSON , POST , path=/accmanager/bankaccount , body={"name":"Emma","surname":"Dupuis","account":0,"risk":"LOW"} , 49416 , 8083
+10.250936 , HTTP/JSON , status=201 , body={"id":1,"name":"Emma","surname":"Dupuis","account":0,"risk":"LOW"} , 8083 , 49416
+12.287206 , HTTP/JSON , POST , path=/loan-approval/loanapproval , body={"accountId":1,"amount":7505} , 49417 , 8080
+12.293030 , HTTP , GET , path=/check-account/checkaccount/1 , 8080 , 8081
+12.360807 , HTTP , GET , path=/accmanager/bankaccount/1 , 8081 , 8083
+12.364002 , HTTP/JSON , status=200 , body={"name":"Emma","surname":"Dupuis","account":0.0,"risk":"LOW"} , 8083 , 8081
+12.365522 , HTTP/JSON , status=200 , body="LOW" , 8081 , 8080
+12.366756 , HTTP , GET , path=/accmanager/bankaccount/1 , 8080 , 8083
+12.369928 , HTTP/JSON , status=200 , body={"id":1,"name":"Emma","surname":"Dupuis","account":0,"risk":"LOW"} , 8083 , 8080
+12.370820 , HTTP/JSON , PUT , path=/accmanager/bankaccount/1 , body={"id":0,"name":null,"surname":null,"account":7505.0,"risk":null} , 8080 , 8083
+12.375040 , HTTP/JSON , status=200 , body={"id":1,"name":"Emma","surname":"Dupuis","account":7505.0,"risk":"LOW"} , 8083 , 8080
+12.376202 , HTTP/JSON , status=201 , body={"bankAccount":{"id":1,"name":"Emma","surname":"Dupuis","account":7505.0,"risk":"LOW"},"response":"ACCEPTED"} , 8080 , 49417
+32.772660 , HTTP/JSON , POST , path=/accmanager/bankaccount , body={"name":"Samuel","surname":"Mary","account":0,"risk":"HIGH"} , 49433 , 8083
+32.779277 , HTTP/JSON , status=201 , body={"id":2,"name":"Samuel","surname":"Mary","account":0,"risk":"HIGH"} , 8083 , 49433
+34.810618 , HTTP/JSON , POST , path=/loan-approval/loanapproval , body={"accountId":2,"amount":5318} , 49434 , 8080
+34.818477 , HTTP , GET , path=/check-account/checkaccount/2 , 8080 , 8081
+34.904547 , HTTP , GET , path=/accmanager/bankaccount/2 , 8081 , 8083
+34.907817 , HTTP/JSON , status=200 , body={"id":2,"name":"Samuel","surname":"Mary","account":0,"risk":"HIGH"} , 8083 , 8081
+34.909240 , HTTP/JSON , status=200 , body="HIGH" , 8081 , 8080
+34.913657 , HTTP , GET , path=/app-manager/approval/2 , 8080 , 8082
+35.353338 , HTTP/JSON , status=404 , body=no_entitiy_found , 8082 , 8080
+35.435116 , HTTP/JSON , POST , path=/app-manager/approval , body={"idAccount":2,"response":"REFUSED"} , 8080 , 8082
+35.705972 , HTTP/JSON , status=201 , body={"response":"REFUSED","idAccount":2} , 8082 , 8080
+35.707182 , HTTP , GET , path=/accmanager/bankaccount/2 , 8080 , 8083
+35.711038 , HTTP/JSON , status=200 , body={"id":2,"name":"Samuel","surname":"Mary","account":0,"risk":"HIGH"} , 8083 , 8080
+35.712014 , HTTP/JSON , status=201 , body={"bankAccount":{"id":2,"name":"Samuel","surname":"Mary","account":0,"risk":"HIGH"},"response":"REFUSED"} , 8080 , 49434
+37.731139 , HTTP/JSON , PUT , path=/app-manager/approval/2 , body={"response":"ACCEPTED"} , 49439 , 8082
+37.764269 , HTTP/JSON , status=200 , body={"response":"ACCEPTED","idAccount":2} , 8082 , 49439
+39.794816 , HTTP/JSON , POST , path=/loan-approval/loanapproval , body={"accountId":2,"amount":5318} , 49440 , 8080
+39.801179 , HTTP , GET , path=/check-account/checkaccount/2 , 8080 , 8081
+39.885968 , HTTP , GET , path=/accmanager/bankaccount/2 , 8081 , 8083
+39.889290 , HTTP/JSON , status=200 , body={"id":2,"name":"Samuel","surname":"Mary","account":0,"risk":"HIGH"} , 8083 , 8081
+39.890559 , HTTP/JSON , status=200 , body="HIGH" , 8081 , 8080
+39.891134 , HTTP , GET , path=/app-manager/approval/2 , 8080 , 8082
+39.893545 , HTTP/JSON , status=200 , body={"response":"ACCEPTED","idAccount":2} , 8082 , 8080
+39.894195 , HTTP , GET , path=/accmanager/bankaccount/2 , 8080 , 8083
+39.897010 , HTTP/JSON , status=200 , body={"id":2,"name":"Samuel","surname":"Mary","account":0,"risk":"HIGH" , 8083 , 8080
+39.897750 , HTTP/JSON , PUT , path=/accmanager/bankaccount/2 , body={"id":0,"name":null,"surname":null,"account":5318.0,"risk":null} , 8080 , 8083
+39.901535 , HTTP/JSON , status=200 , body={"id":2,"name":"Samuel","surname":"Mary","account":5318.0,"risk":"HIGH"} , 8083 , 8080
+39.902741 , HTTP/JSON , status=201 , body={"bankAccount":{"id":2,"name":"Samuel","surname":"Mary","account":5318.0,"risk":"HIGH"},"response":"ACCEPTED"} , 8080 , 49440
+48.662330 , HTTP/JSON , POST , path=/accmanager/bankaccount , body={"name":"Rose","surname":"Grenier","account":5318.0,"risk":"LOW"} , 49442 , 8083
+48.668648 , HTTP/JSON , status=201 , body={"id":3,"name":"Rose","surname":"Grenier","account":0,"risk":"LOW"} , 8083 , 49442
+50.704210 , HTTP/JSON , POST , path=/loan-approval/loanapproval , body={"id":3,"amount":98281} , 49443 , 8080
+50.707173 , HTTP , GET , path=/check-account/checkaccount/3 , 8080 , 8081
+50.771229 , HTTP , GET , path=/accmanager/bankaccount/3 , 8081 , 8083
+50.775395 , HTTP/JSON , status=200 , body={"id":3,"name":"Rose","surname":"Grenier","account":0,"risk":"LOW"} , 8083 , 8081
+50.776807 , HTTP/JSON , status=200 , body="LOW" , 8081 , 8080
+50.777381 , HTTP , GET , path=/app-manager/approval/3 , 8080 , 8082
+50.864343 , HTTP/JSON , status=404 , body="no_entitiy_found" , 8082 , 8080
+50.868961 , HTTP/JSON , POST , path=/app-manager/approval , body={"idAccount":3,"response":"REFUSED"} , 8080 , 8082
+50.876597 , HTTP/JSON , status=201 , body={"response":"REFUSED","idAccount":3} , 8082 , 8080
+50.877831 , HTTP , GET , path=/accmanager/bankaccount/3 , 8080 , 8083
+50.883397 , HTTP/JSON , status=200 , body={"id":3,"name":"Rose","surname":"Grenier","account":0,"risk":"LOW"} , 8083 , 8080
+50.885237 , HTTP/JSON , status=201 , body={"bankAccount":"id":3,"name":"Rose","surname":"Grenier","account":0,"risk":"LOW","response":"REFUSED"} , 8080 , 49443
+52.915946 , HTTP/JSON , PUT , path=/app-manager/approval/3 , body={"response":"ACCEPTED"} , 49445 , 8082
+52.928162 , HTTP/JSON , status=200 , body={"response":"ACCEPTED","idAccount":3} , 8082 , 49445
+54.951060 , HTTP/JSON , POST , path=/loan-approval/loanapproval , body={"accountId":3,"amount":98281} , 49446 , 8080
+54.956836 , HTTP , GET , path=/check-account/checkaccount/3 , 8080 , 8081
+54.980681 , HTTP , GET , path=/accmanager/bankaccount/3 , 8081 , 8083
+54.985721 , HTTP/JSON , status=200 , body={"id":3,"name":"Rose","surname":"Grenier","account":0,"risk":"LOW"} , 8083 , 8081
+54.988111 , HTTP/JSON , status=200 , body="LOW" , 8081 , 8080
+54.989107 , HTTP , GET , path=/app-manager/approval/3 , 8080 , 8082
+54.993422 , HTTP/JSON , status=200 , body={"response":"ACCEPTED","idAccount":3} , 8082 , 8080
+54.994516 , HTTP , GET , path=/accmanager/bankaccount/3 , 8080 , 8083
+54.999364 , HTTP/JSON , status=200 , body={"id":3,"name":"Rose","surname":"Grenier","account":0,"risk":"LOW"} , 8083 , 8080
+55.000512 , HTTP/JSON , PUT , path=/accmanager/bankaccount/3 , body={"id":0,"name":null,"surname":null,"account":98281.0,"risk":null} , 8080 , 8083
+55.005820 , HTTP/JSON , status=200 , body={"id":3,"name":"Rose","surname":"Grenier","account":98281.0,"risk":"LOW"} , 8083 , 8080
+55.006908 , HTTP/JSON , status=201 , body={"bankAccount":{"id":3,"name":"Rose","surname":"Grenier","account":98281.0,"risk":"LOW"},"response":"ACCEPTED"} , 8080 , 49446
+199.246927 , HTTP , GET , path=/accmanager/bankaccount , 49522 , 8083
+199.575787 , HTTP/JSON , status=200 , body=[] , 8083 , 49522
+216.624050 , HTTP/JSON , POST , path=/accmanager/bankaccount , body={"name":"John","surname":"Doe","account":0,"risk":"Low"} , 49522 , 8083
+216.908195 , HTTP/JSON , status=201 , body={"id":4,"name":"John","surname":"Doe","account":0,"risk":"Low"} , 8083 , 49522
+228.513696 , HTTP/JSON , POST , path=/accmanager/bankaccount , body={"name":"John","surname":"Doe","account":0,"risk":"HIGH"} , 49522 , 8083
+228.517357 , HTTP/JSON , status=201 , body={"id":5,"name":"John","surname":"Doe","account":0,"risk":"HIGH"} , 8083 , 49522
+247.731444 , HTTP , GET , path=/accmanager/bankaccount/4 , 49522 , 8083
+247.793196 , HTTP/JSON , status=200 , body={"id":4,"name":"John","surname":"Doe","account":0,"risk":"HIGH"} , 8083 , 49522
+254.655872 , HTTP , GET , path=/accmanager/bankaccount/18 , 49522 , 8083
+254.722030 , HTTP , status=404 , 8083 , 49522
+329.697953 , HTTP/JSON , PUT , path=/accmanager/bankaccount/1 , body={"name":"Jahn","surname":"Dahn","account":50000,"risk":"LOW"} , 49522 , 8083
+329.716314 , HTTP/JSON , status=200 , body={"id":1,"name":"Jahn","surname":"Dahn","account":50000,"risk":"LOW"} , 8083 , 49522
+364.054964 , HTTP/JSON , PUT , path=/accmanager/bankaccount/19 , body={"name":"Jahn","surname":"Dahn","account":50000,"risk":"LOW"} , 49522 , 8083
+364.071596 , HTTP , status=404 , 8083 , 49522
+371.777250 , HTTP , DELETE , path=/accmanager/bankaccount/19 , 49522 , 8083
+371.824896 , HTTP , status=404 , 8083 , 49522
+387.317497 , HTTP , DELETE , path=/accmanager/bankaccount/18 , 49522 , 8083
+387.416662 , HTTP , status=404 , 8083 , 49522
+414.664280 , HTTP , DELETE , path=/accmanager/bankaccount/1 , 49522 , 8083
+414.681258 , HTTP/JSON , status=200 , body={"id":486844375194,"name":"Jahn","surname":"Dahn","account":50000,"risk":"LOW"} , 8083 , 49522

@@ -1,0 +1,10 @@
+83.843050 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+83.843774 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.844679 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+83.845181 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/f7f1cc41-80de-4564-93e3-262deb113a68/name , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.846750 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+83.847240 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.848099 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+83.848554 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/e693a601-08a0-4ad6-8afa-26ea5fbcf52a/name , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+83.850050 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+83.850784 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)

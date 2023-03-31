@@ -1,0 +1,10 @@
+40.289700 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 59437
+40.289729 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 59436
+40.291189 , HTTP , POST , path=/client/Products/1?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59440 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.291190 , HTTP , POST , path=/client/Products?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59441 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+40.292240 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59443 , 8081 , Java/16.0.1
+40.292252 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59442 , 8081 , Java/16.0.1
+40.439790 , HTTP , HTTP/1.1 , status=200 , 8081 , 59442 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMjYiLCJpZCI6MjI2LCJleHAiOjE2NzUzNTMyNDYsImlhdCI6MTY3NTI2Njg0Nn0.sGOQWHXO2rcoSTJns-GNNSnKPhEuTNevd2Flh8zp6KYV9w9mUsTjnTm5f6QgSh60he1yTDXHZmJ8SfWp4ldRIg
+40.439832 , HTTP , HTTP/1.1 , status=200 , 8081 , 59443 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMjUiLCJpZCI6MjI1LCJleHAiOjE2NzUzNTMyNDYsImlhdCI6MTY3NTI2Njg0Nn0.YL8nCUFKZoPiGdSVLCzIZPoA3Xhrnl-tyPeCs8ODoZ0D9RT9dCUW6F9QEGp2EnqfOJFMiwFjQBn8L6hsFf9RhQ
+40.441174 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 59441
+40.441254 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 59440

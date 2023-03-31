@@ -1,0 +1,10 @@
+46.639582 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 59549 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+46.642501 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 59549
+46.648418 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 59550 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+46.682179 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 59550
+47.022647 , HTTP , POST , / , HTTP/1.1 , 59551 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+47.023266 , HTTP , POST , path=/client/Products/1/buy , HTTP/1.1 , 59552 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+47.025832 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59553 , 8081 , Java/16.0.1
+47.033499 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 59551
+47.196919 , HTTP , HTTP/1.1 , status=200 , 8081 , 59553 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMzEiLCJpZCI6MjMxLCJleHAiOjE2NzUzNTMyNTIsImlhdCI6MTY3NTI2Njg1Mn0.7ggh26iqAsd45vz34KEgwcbbXaN9FRLV4RxahOOrCgCH-clrBkk3plLLtry8pjFynz_ESy1uxuMkYoF126BAmg
+47.198625 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 59552

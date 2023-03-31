@@ -1,0 +1,10 @@
+88.963623 , HTTP , GET , path=http://localhost:8083path=/client?name=abc , HTTP/1.1 , 60232 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+88.964999 , HTTP , GET , path=/client?name=abc , HTTP/1.1 , 60230 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+88.965463 , HTTP , HTTP/1.1 , status=302 , 8083 , 60230
+88.966938 , HTTP , GET , path=/client/?name=abc , HTTP/1.1 , 60233 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+88.968213 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60234 , 8081 , Java/16.0.1
+88.983987 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+88.985006 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+88.986284 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+88.986746 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/960ed6d9-8f0d-4050-8514-e4dfaaaf87de/name , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+88.988213 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152

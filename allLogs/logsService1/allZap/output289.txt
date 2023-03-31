@@ -1,0 +1,10 @@
+87.151925 , HTTP , HTTP/1.1 , status=200 , (font/woff) , 8083 , 60227
+87.151960 , HTTP , HTTP/1.1 , status=200 , (font/woff) , 8083 , 60223
+87.152112 , HTTP , HTTP/1.1 , status=200 , (font/woff) , 8083 , 60228
+87.152839 , HTTP , HTTP/1.1 , status=200 , (font/woff) , 53856 , 60226
+87.152984 , HTTP , HTTP/1.1 , status=200 , (font/woff) , 53856 , 60225
+87.153276 , HTTP , HTTP/1.1 , status=200 , (font/woff) , 53856 , 60222
+87.162422 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+87.164104 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+87.172772 , HTTP , GET , path=http://localhost:8083/ , HTTP/1.1 , 60222 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+87.173489 , HTTP , GET , / , HTTP/1.1 , 60228 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"

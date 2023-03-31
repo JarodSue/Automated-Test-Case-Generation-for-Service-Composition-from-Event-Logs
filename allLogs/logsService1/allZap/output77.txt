@@ -1,0 +1,10 @@
+48.031900 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 59570
+48.032120 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59577
+48.235833 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 59577 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+48.236661 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59577
+48.450215 , HTTP , GET , path=/client , HTTP/1.1 , 59577 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+48.450547 , HTTP , HTTP/1.1 , status=302 , 8083 , 59577
+48.451669 , HTTP , GET , path=/client/Products , HTTP/1.1 , 59570 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+48.452584 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59578 , 8081 , Java/16.0.1
+48.596897 , HTTP , HTTP/1.1 , status=200 , 8081 , 59578 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMzYiLCJpZCI6MjM2LCJleHAiOjE2NzUzNTMyNTQsImlhdCI6MTY3NTI2Njg1NH0.pqdlq1yVNGxNj78hRg1xYAjcsdDwE9v-y8p6wKs5ea2GnmSwccBLn4cRo7NoZaes13UBWGaI95YRVaHlg7hy2A
+48.598548 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 59570

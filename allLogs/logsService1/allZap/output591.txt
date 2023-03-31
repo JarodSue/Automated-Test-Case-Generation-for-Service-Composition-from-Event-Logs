@@ -1,0 +1,10 @@
+139.200739 , HTTP/JSON , POST , path=/client/Products/1/buy , HTTP/1.1 , JavaScript Object Notation (application/json) , 60983 , 8083 , "Mozilla/5.0 (compatible; Yahoo! Slurp; path=http://help.yahoo.com/help/us/ysearch/slurp)"
+139.201532 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61049 , 8081 , Java/16.0.1
+139.318176 , HTTP , HTTP/1.1 , status=200 , 8081 , 61042 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTgiLCJpZCI6Mjk4LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.REcrQlqfoqMI2uvBFW7rjFNN91tmJ12yOav_p12TRQmiMtA39DpJbjc6Jm41FHYcN0v8Hhndxv_efk81dL2sAw
+139.319384 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61041
+139.327572 , HTTP , POST , path=/client/Products/1/buy , HTTP/1.1 , 61050 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/91.0"
+139.328446 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61051 , 8081 , Java/16.0.1
+139.346822 , HTTP , HTTP/1.1 , status=200 , 8081 , 61049 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTkiLCJpZCI6Mjk5LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.tzIWBKmPY2wtn2cHaIB8NvgeVJK-5T71qnS5PpHFnPd9SdtfaE0YqdrSrgIsDaogs9T13EH3k9eK5FbkNEmtrw
+139.347953 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61052 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTkiLCJpZCI6Mjk5LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.tzIWBKmPY2wtn2cHaIB8NvgeVJK-5T71qnS5PpHFnPd9SdtfaE0YqdrSrgIsDaogs9T13EH3k9eK5FbkNEmtrw , Java/16.0.1
+139.350028 , HTTP , HTTP/1.1 , status=200 , 8081 , 61052 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTkiLCJpZCI6Mjk5LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.tzIWBKmPY2wtn2cHaIB8NvgeVJK-5T71qnS5PpHFnPd9SdtfaE0YqdrSrgIsDaogs9T13EH3k9eK5FbkNEmtrw
+139.350773 , HTTP/JSON , POST , path=/prod/Products/Buy/1 , HTTP/1.1 , JavaScript Object Notation (application/json) , 61053 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTkiLCJpZCI6Mjk5LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.tzIWBKmPY2wtn2cHaIB8NvgeVJK-5T71qnS5PpHFnPd9SdtfaE0YqdrSrgIsDaogs9T13EH3k9eK5FbkNEmtrw , Java/16.0.1

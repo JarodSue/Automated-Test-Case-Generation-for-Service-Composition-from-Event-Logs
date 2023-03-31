@@ -1,0 +1,10 @@
+139.787093 , HTTP , GET , path=/client , HTTP/1.1 , 61076 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+139.787108 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 61075 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozillapath=/4.0 (compatible; MSIE 8.0; Windows NT 6.1)"
+139.787419 , HTTP , HTTP/1.1 , status=302 , 8083 , 61076
+139.788351 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61077 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+139.797122 , HTTP , HTTP/1.1 , status=200 , 8081 , 61077
+139.798017 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 61078 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+139.799604 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61079 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+139.880581 , HTTP , HTTP/1.1 , status=200 , 8081 , 61074 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDQiLCJpZCI6MzA0LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.Z6FjP3ASMnlvdiD-jXfqyBD8tO3ntiOYPNsFalhJJY-fKWfAXz5y34RXh-ZuGz5Av19x-vK6-7yk5f2fiurv0g
+139.881888 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61081 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDQiLCJpZCI6MzA0LCJleHAiOjE2NzUzNTMzNDUsImlhdCI6MTY3NTI2Njk0NX0.Z6FjP3ASMnlvdiD-jXfqyBD8tO3ntiOYPNsFalhJJY-fKWfAXz5y34RXh-ZuGz5Av19x-vK6-7yk5f2fiurv0g , Java/16.0.1
+139.949272 , HTTP , HTTP/1.1 , status=200 , 8081 , 61079

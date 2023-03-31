@@ -1,0 +1,10 @@
+110.763087 , HTTP , GET , path=/client , HTTP/1.1 , 60481 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+110.764289 , HTTP , HTTP/1.1 , status=302 , 8083 , 60481
+110.766529 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 60482 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+110.769383 , HTTP , GET , path=/client/Products , HTTP/1.1 , 60483 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+110.770850 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 60484 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+110.771908 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60485 , 8081 , Java/16.0.1
+110.850252 , HTTP , HTTP/1.1 , status=200 , 8081 , 60484
+110.851125 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 60486 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+110.852927 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 60487 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+110.965035 , HTTP , HTTP/1.1 , status=200 , 8081 , 60485 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTgiLCJpZCI6MjU4LCJleHAiOjE2NzUzNTMzMTYsImlhdCI6MTY3NTI2NjkxNn0.5cmBggkITXx15rt3odZSD-_O_zAEYuNDaR44R5cqTSIB7j30ZWAl2FfjAOX7f6ViHd9ijbLDlfGggxtqKlGhUA

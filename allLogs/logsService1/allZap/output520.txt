@@ -1,0 +1,10 @@
+124.610676 , HTTP , GET , path=/client/Products , HTTP/1.1 , 60750 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+124.612575 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60752 , 8081 , Java/16.0.1
+124.612842 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 60751 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+124.615375 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 60753 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+124.673016 , HTTP , HTTP/1.1 , status=200 , 8081 , 60753
+124.674045 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 60754 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+124.675878 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 60755 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+124.786074 , HTTP , HTTP/1.1 , status=200 , 8081 , 60752 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNjciLCJpZCI6MjY3LCJleHAiOjE2NzUzNTMzMzAsImlhdCI6MTY3NTI2NjkzMH0.K024DL8Pr51H0WLICsNjMT1f6SKm8IBaH1E3JEqCLezhdj2eebmilFWQl0OZarYaE66WjJxMahoAP08tp16nEQ
+124.787372 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60750
+124.821836 , HTTP , HTTP/1.1 , status=200 , 8081 , 60755

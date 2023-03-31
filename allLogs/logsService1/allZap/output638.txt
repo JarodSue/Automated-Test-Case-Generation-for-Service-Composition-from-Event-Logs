@@ -1,0 +1,10 @@
+145.740428 , HTTP , GET , /robots.txt , HTTP/1.1 , 61251 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 8.0; Windows NT 6.1)"
+145.741277 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61251
+145.741842 , HTTP , GET , /robots.txt , HTTP/1.1 , 61251 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"
+145.742094 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61251
+145.742531 , HTTP , GET , /robots.txt , HTTP/1.1 , 61251 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+145.742748 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61251
+145.743190 , HTTP , GET , /robots.txt , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko"
+145.743383 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61251
+145.743793 , HTTP , GET , /robots.txt , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/75.0.3739.0 Safari/537.36 Edg/75.0.109.0"
+145.743967 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61251

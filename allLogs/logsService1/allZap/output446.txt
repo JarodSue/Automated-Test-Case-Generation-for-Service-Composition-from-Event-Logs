@@ -1,0 +1,10 @@
+103.893536 , HTTP , DELETE , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95 , HTTP/1.1 , 60284 , 6455 , selenium/unknown (java windows)
+104.497770 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60284
+104.762593 , HTTP , GET , path=/client , HTTP/1.1 , 60285 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+104.762650 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 60286 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+104.762967 , HTTP , HTTP/1.1 , status=302 , 8083 , 60285
+104.764255 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 60287 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+104.766000 , HTTP , GET , path=/client/Products , HTTP/1.1 , 60288 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+104.767391 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60289 , 8081 , Java/16.0.1
+104.934062 , HTTP , HTTP/1.1 , status=200 , 8081 , 60289 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTYiLCJpZCI6MjU2LCJleHAiOjE2NzUzNTMzMTAsImlhdCI6MTY3NTI2NjkxMH0.LZyNxC6PVrQjEN_fMrSIGfaRULVozH1focKrGsxU2-OFc0tqohTktOTR3AbaCqoq2qxMb5pitJeFhN3WFq1uAQ
+104.935381 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60288

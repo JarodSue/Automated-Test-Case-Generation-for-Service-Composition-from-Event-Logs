@@ -1,0 +1,10 @@
+138.621336 , HTTP , HTTP/1.1 , status=200 , 8081 , 61018 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTAiLCJpZCI6MjkwLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.vVLM3WVxPVCpid93Smw066wAx-ing-XqnBoeFtKbcI8ioxjHNi4icoh-z3lMWBRry2fTGruvjxVB94U71Jr_SA
+138.624510 , HTTP , HTTP/1.1 , status=200 , 8082 , 61017 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTAiLCJpZCI6MjkwLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.vVLM3WVxPVCpid93Smw066wAx-ing-XqnBoeFtKbcI8ioxjHNi4icoh-z3lMWBRry2fTGruvjxVB94U71Jr_SA
+138.626732 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8080 , 61015 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTAiLCJpZCI6MjkwLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.vVLM3WVxPVCpid93Smw066wAx-ing-XqnBoeFtKbcI8ioxjHNi4icoh-z3lMWBRry2fTGruvjxVB94U71Jr_SA
+138.627595 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 61019 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTAiLCJpZCI6MjkwLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.vVLM3WVxPVCpid93Smw066wAx-ing-XqnBoeFtKbcI8ioxjHNi4icoh-z3lMWBRry2fTGruvjxVB94U71Jr_SA , Java/16.0.1
+138.631953 , HTTP , HTTP/1.1 , status=200 , 8081 , 61019
+138.632613 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 60983 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTAiLCJpZCI6MjkwLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.vVLM3WVxPVCpid93Smw066wAx-ing-XqnBoeFtKbcI8ioxjHNi4icoh-z3lMWBRry2fTGruvjxVB94U71Jr_SA
+138.633588 , HTTP/JSON , POST , path=/client/Products/1/buy , HTTP/1.1 , JavaScript Object Notation (application/json) , 60983 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/75.0.3739.0 Safari/537.36 Edg/75.0.109.0"
+138.634747 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61020 , 8081 , Java/16.0.1
+138.679674 , HTTP , HTTP/1.1 , status=200 , 8081 , 61013 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyOTEiLCJpZCI6MjkxLCJleHAiOjE2NzUzNTMzNDQsImlhdCI6MTY3NTI2Njk0NH0.JgUl6lS_HGmkx2Ju3mUlcYnmduFpxrRJbmT2pR7b7_PfmyE0Y1NL1_VPuSKTk_YZacLpomDXFWDYWya7F9g_3A
+138.681051 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61012

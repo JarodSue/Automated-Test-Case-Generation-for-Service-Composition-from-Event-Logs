@@ -1,0 +1,10 @@
+135.545305 , HTTP , GET , /i.php , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.546227 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.559241 , HTTP , GET , /test.php , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.560067 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.560672 , HTTP , GET , /_wpeprivate/config.json , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.561377 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.561941 , HTTP , GET , /.hg , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.562587 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.563182 , HTTP , GET , /.bzr , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.563783 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931

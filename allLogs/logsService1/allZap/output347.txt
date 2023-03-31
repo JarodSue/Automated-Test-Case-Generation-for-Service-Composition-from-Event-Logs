@@ -1,0 +1,10 @@
+91.811593 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+91.811728 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60242 , 8081 , Java/16.0.1
+91.813163 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/bda0048d-6af1-469c-ae67-f9037c206387path=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+91.820546 , TLSv1.3 , Application Data , 60205 , 53856
+91.879197 , TLSv1.3 , Application Data , 53856 , 60205
+91.891029 , TLSv1.3 , Application Data , 60205 , 53856
+91.941086 , TLSv1.3 , Application Data , 53856 , 60205
+91.941475 , TLSv1.3 , Application Data , 60211 , 53856
+91.941550 , TLSv1.3 , Application Data , 60206 , 53856
+91.944096 , TLSv1.3 , Application Data , 60205 , 53856

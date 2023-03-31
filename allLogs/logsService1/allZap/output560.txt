@@ -1,0 +1,10 @@
+135.493266 , HTTP , GET , /winscp.ini , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.494232 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.494890 , HTTP , GET , /WinSCP.ini , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.495567 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.496144 , HTTP , GET , /.DS_Store , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.496857 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.497478 , HTTP , GET , /.php_cs.cache , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.498194 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.498742 , HTTP , GET , /DEADJOE , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.499553 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931

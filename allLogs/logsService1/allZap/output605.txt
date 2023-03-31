@@ -1,0 +1,10 @@
+141.398198 , HTTP , HTTP/1.1 , status=200 , 8081 , 61113 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDciLCJpZCI6MzA3LCJleHAiOjE2NzUzNTMzNDcsImlhdCI6MTY3NTI2Njk0N30.BWo3QjGJQ8pTSvoVIfip1oP5rPEtFmZkM6NMAru_ubJexmmSJF0NIGjr8L1Av89g_urAvH0yOMd1iHj_n2FChg
+141.399380 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61112
+141.400062 , HTTP , HTTP/1.1 , status=200 , 8081 , 61111 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDYiLCJpZCI6MzA2LCJleHAiOjE2NzUzNTMzNDcsImlhdCI6MTY3NTI2Njk0N30.Dd2hNb2mqOr5zLir2awC_yuKEXX97aLOmbgUzA_ZIoRGRDpf2cfaV95bT9uSw807N7XCOr0Nyd6FRVc5Qz_nxQ
+141.401488 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60983
+141.426467 , HTTP , GET , path=/client , HTTP/1.1 , 61116 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"
+141.435089 , HTTP , HTTP/1.1 , status=302 , 8083 , 61116
+141.436459 , HTTP , GET , path=/client/ , HTTP/1.1 , 61117 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"
+141.437530 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61118 , 8081 , Java/16.0.1
+141.599157 , HTTP , HTTP/1.1 , status=200 , 8081 , 61118 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDgiLCJpZCI6MzA4LCJleHAiOjE2NzUzNTMzNDcsImlhdCI6MTY3NTI2Njk0N30.Q6vj3XW60Nt67NIR9zTWmUjdPEVN2G9mIuDS1fBgq-hwJ9VqgwbLghqFnOYG9rMcJ2leEf1mSSpkvBkQoS8BgA
+141.600184 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61117

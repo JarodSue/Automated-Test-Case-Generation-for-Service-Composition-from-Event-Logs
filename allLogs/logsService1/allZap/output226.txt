@@ -1,0 +1,10 @@
+83.628905 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/execute/sync , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+83.634369 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+83.636652 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/execute/sync , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+83.641787 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+83.643479 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/13dfea69-3731-484e-b99e-d8763644787epath=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+83.652540 , HTTP , GET , path=http://localhost:8083/manager/status , HTTP/1.1 , 60188 , 53856 , Basic Og== , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+83.653242 , HTTP , GET , /manager/status , HTTP/1.1 , 60197 , 8083 , Basic Og== , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+83.751711 , HTTP , HTTP/1.1 , status=401 , (text/html) , 8083 , 60197
+83.751751 , HTTP , HTTP/1.1 , status=401 , (text/html) , 8083 , 60196
+83.752540 , HTTP , HTTP/1.1 , status=401 , (text/html) , 53856 , 60188

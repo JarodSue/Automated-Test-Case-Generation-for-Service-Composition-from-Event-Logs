@@ -1,0 +1,10 @@
+145.542753 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML , like Gecko) Versionpath=/4.0 Mobile/7A341 Safari/528.16"
+145.543133 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.543674 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML , like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+145.544004 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.545196 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/91.0"
+145.545835 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.546598 , HTTP , GET , path=/favicon.ico , HTTP/1.1 , 61251 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+145.546968 , HTTP , HTTP/1.1 , status=200 , (image/x-icon) , 8083 , 61251
+145.632306 , HTTP , HTTP/1.1 , status=200 , 8081 , 61250 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNDEiLCJpZCI6MzQxLCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.nhvEpdnrdm2xQS4ZkQtuv3o-k-kohSDydQWrLwzBAoNg-xXm1GjjnO2l6O5QV613YUPsSU7zNrod_VSfigYpcw
+145.633393 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61252 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNDEiLCJpZCI6MzQxLCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.nhvEpdnrdm2xQS4ZkQtuv3o-k-kohSDydQWrLwzBAoNg-xXm1GjjnO2l6O5QV613YUPsSU7zNrod_VSfigYpcw , Java/16.0.1

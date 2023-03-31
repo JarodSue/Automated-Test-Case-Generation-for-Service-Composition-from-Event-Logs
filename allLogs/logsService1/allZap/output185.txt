@@ -1,0 +1,10 @@
+80.948884 , HTTP , GET , path=http://localhost:8083/bg-nav.png , HTTP/1.1 , 60188 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.950427 , HTTP , GET , /bg-nav.png , HTTP/1.1 , 60192 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.951429 , HTTP , GET , path=http://localhost:8083/bg-upper.png , HTTP/1.1 , 60193 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.951513 , HTTP , GET , path=http://localhost:8083/asf-logo-wide.svg , HTTP/1.1 , 60191 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.951661 , HTTP , GET , path=http://localhost:8083/bg-middle.png , HTTP/1.1 , 60195 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.951763 , HTTP , GET , path=http://localhost:8083/bg-button.png , HTTP/1.1 , 60194 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.952863 , HTTP , HTTP/1.1 , status=200 , (PNG) , 8083 , 60192
+80.953360 , HTTP , GET , /bg-middle.png , HTTP/1.1 , 60199 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.953364 , HTTP , GET , /bg-upper.png , HTTP/1.1 , 60198 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.953376 , HTTP , GET , /bg-button.png , HTTP/1.1 , 60197 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"

@@ -1,0 +1,10 @@
+142.093574 , HTTP , HTTP/1.1 , status=302 , 8083 , 61134
+142.095096 , HTTP , GET , path=/client/ , HTTP/1.1 , 61135 , 8083 , "Mozilla/5.0 (compatible; Googlebot/2.1; +path=http://www.google.com/bot.html)"
+142.096236 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61136 , 8081 , Java/16.0.1
+142.104332 , HTTP , HTTP/1.1 , status=200 , 8081 , 61133
+142.106454 , HTTP , HTTP/1.1 , status=200 , 8080 , 61132 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw
+142.107177 , HTTP , HTTP/1.1 , status=200 , 8083 , 61127 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw
+142.108889 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 61137 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (compatible; Yahoo! Slurp; path=http://help.yahoo.com/help/us/ysearch/slurp)"
+142.110592 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61138 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+142.245477 , HTTP , HTTP/1.1 , status=200 , 8081 , 61136 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMTIiLCJpZCI6MzEyLCJleHAiOjE2NzUzNTMzNDgsImlhdCI6MTY3NTI2Njk0OH0.Cj5j5_pGf3DLYr15MDFL0cx-fhAUpf7_7yUUVy6lzarQeDbmBzPG5cQZJO0Ziogm_ELtRvf1XKwnbNitNH3itQ
+142.246579 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61135

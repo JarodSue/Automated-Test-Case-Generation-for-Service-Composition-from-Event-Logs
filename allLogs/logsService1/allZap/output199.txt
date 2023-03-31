@@ -1,0 +1,10 @@
+81.848470 , TLSv1.3 , Client Hello , 60204 , 53856
+81.858928 , TLSv1.3 , Application Data , 60205 , 53856
+81.860154 , HTTP , CONNECT tomcat.apache.org:443 , HTTP/1.1 , 60209 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.860971 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60209
+81.862537 , TLSv1.3 , Client Hello , 60209 , 53856
+81.865789 , HTTP , CONNECT tomcat.apache.org:443 , HTTP/1.1 , 60210 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.866799 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60210
+81.868568 , TLSv1.3 , Client Hello , 60210 , 53856
+81.870865 , HTTP , CONNECT tomcat.apache.org:443 , HTTP/1.1 , 60211 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.871380 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60211

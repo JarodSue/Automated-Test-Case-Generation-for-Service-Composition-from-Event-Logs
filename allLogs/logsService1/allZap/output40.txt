@@ -1,0 +1,10 @@
+38.607440 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 59401
+38.608929 , HTTP/JSON , PUT , path=/client/Products , HTTP/1.1 , JavaScript Object Notation (application/json) , 59402 , 8083 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+38.611883 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 59402
+38.614840 , HTTP , GET , /WEB-INF/web.xml , HTTP/1.1 , 59404 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+38.615306 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59404
+38.615733 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59403
+38.616326 , HTTP , GET , /WEB-INF/applicationContext.xml , HTTP/1.1 , 59404 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+38.616789 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59404
+38.617213 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59405
+38.617718 , HTTP , GET , /WEB-INF/classes/9/0/70.class , HTTP/1.1 , 59404 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"

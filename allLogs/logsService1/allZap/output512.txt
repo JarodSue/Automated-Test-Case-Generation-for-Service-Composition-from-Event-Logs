@@ -1,0 +1,10 @@
+122.145400 , HTTP , HTTP/1.1 , status=200 , 8081 , 60719 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTkiLCJpZCI6MjU5LCJleHAiOjE2NzUzNTMzMjcsImlhdCI6MTY3NTI2NjkyN30.tAa8n163v8WZJ-6FF1wb-h8KrLWJ5Wg_QIrVDAb35PIpXs6VbkyoIdvv74o_2R0RLAzgQuefNDVaORyMAP5m1w
+122.146801 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60718
+122.365328 , HTTP , GET , path=/client , HTTP/1.1 , 60720 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+122.366516 , HTTP , HTTP/1.1 , status=302 , 8083 , 60720
+122.371597 , HTTP , GET , path=/client/Products , HTTP/1.1 , 60721 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+122.375052 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60722 , 8081 , Java/16.0.1
+122.561024 , HTTP , HTTP/1.1 , status=200 , 8081 , 60722 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNjAiLCJpZCI6MjYwLCJleHAiOjE2NzUzNTMzMjgsImlhdCI6MTY3NTI2NjkyOH0.CYTcWmnZxqQ2gvuAauLTmLFSbvzuxyCny07maKVG58hN2-t5l0RpYuTBYJDsfljFrLgAM8KDDFjhrMN3wQHMIA
+122.562195 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60721
+122.990477 , HTTP , POST , /latest/meta-data/ , HTTP/1.1 , 60723 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+122.991571 , HTTP , POST , / , HTTP/1.1 , 60724 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"

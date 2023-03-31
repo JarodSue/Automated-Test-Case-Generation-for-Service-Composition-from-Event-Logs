@@ -1,0 +1,10 @@
+124.140114 , HTTP , HTTP/1.1 , status=200 , 8081 , 60749
+124.140595 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 60743 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNjYiLCJpZCI6MjY2LCJleHAiOjE2NzUzNTMzMjksImlhdCI6MTY3NTI2NjkyOX0.2xPNHqhLY1_93k-yNh_g6aFQeSCH3H7uAeRDPnLycv_XzLatg4iyEzIJI4NJ962_BAfsQE4ep0Ow4dfAW_2-Qw
+124.184252 , HTTP , GET , path=/favicon.ico/ , HTTP/1.1 , 60743 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+124.184985 , HTTP , GET , /robots.txt/ , HTTP/1.1 , 60750 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+124.186975 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60743
+124.187074 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60750
+124.387838 , HTTP , GET , /sitemap.xml/ , HTTP/1.1 , 60743 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+124.394665 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60743
+124.607721 , HTTP , GET , path=/client , HTTP/1.1 , 60743 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+124.608227 , HTTP , HTTP/1.1 , status=302 , 8083 , 60743

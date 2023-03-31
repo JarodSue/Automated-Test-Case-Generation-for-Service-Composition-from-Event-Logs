@@ -1,0 +1,10 @@
+144.987730 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61229 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzQiLCJpZCI6MzM0LCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.FmpKv1dr5bUfF_knK6Kjo2puPEXGxz74iLKvERT6LOUirGGqF9ppd-6rVsfHTLB2leMRAgaAqMe7gprU-Nj4Fw , Java/16.0.1
+144.989780 , HTTP , HTTP/1.1 , status=200 , 8081 , 61229 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzQiLCJpZCI6MzM0LCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.FmpKv1dr5bUfF_knK6Kjo2puPEXGxz74iLKvERT6LOUirGGqF9ppd-6rVsfHTLB2leMRAgaAqMe7gprU-Nj4Fw
+144.991297 , HTTP/JSON , HTTP/1.1 , status=200 , JavaScript Object Notation (application/json) , 8080 , 61228 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzQiLCJpZCI6MzM0LCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.FmpKv1dr5bUfF_knK6Kjo2puPEXGxz74iLKvERT6LOUirGGqF9ppd-6rVsfHTLB2leMRAgaAqMe7gprU-Nj4Fw
+144.991940 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 61230 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzQiLCJpZCI6MzM0LCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.FmpKv1dr5bUfF_knK6Kjo2puPEXGxz74iLKvERT6LOUirGGqF9ppd-6rVsfHTLB2leMRAgaAqMe7gprU-Nj4Fw , Java/16.0.1
+144.994958 , HTTP , HTTP/1.1 , status=200 , 8081 , 61230
+144.995445 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 61181 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzQiLCJpZCI6MzM0LCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.FmpKv1dr5bUfF_knK6Kjo2puPEXGxz74iLKvERT6LOUirGGqF9ppd-6rVsfHTLB2leMRAgaAqMe7gprU-Nj4Fw
+144.996229 , HTTP , GET , path=/client/Products/1 , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (compatible; Yahoo! Slurp; path=http://help.yahoo.com/help/us/ysearch/slurp)"
+144.996995 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61231 , 8081 , Java/16.0.1
+145.066050 , HTTP , HTTP/1.1 , status=200 , 8081 , 61226 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzUiLCJpZCI6MzM1LCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.t8R2GJD62T1oq4rOhPKmH82k-v49LyUwJoZ0PYnraAlpkOUmhBlpmedOoB-4a0RtNb5lOfbTlgJRlRXEK7EWtA
+145.067342 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 61225

@@ -1,0 +1,10 @@
+47.476113 , HTTP , HTTP/1.1 , status=200 , 8081 , 59565 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMzIiLCJpZCI6MjMyLCJleHAiOjE2NzUzNTMyNTMsImlhdCI6MTY3NTI2Njg1M30.f0he8KJ1H8SH1jvv4S0ozv1QkbcDXOq19KKob0vM685iKqwc6SgXGGLsyQ3QlxNjhyLhovxDorH0WDkAd3xsgA
+47.481175 , HTTP , HTTP/1.1 , status=200 , 8082 , 59564 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMzIiLCJpZCI6MjMyLCJleHAiOjE2NzUzNTMyNTMsImlhdCI6MTY3NTI2Njg1M30.f0he8KJ1H8SH1jvv4S0ozv1QkbcDXOq19KKob0vM685iKqwc6SgXGGLsyQ3QlxNjhyLhovxDorH0WDkAd3xsgA
+47.483643 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8080 , 59562 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMzIiLCJpZCI6MjMyLCJleHAiOjE2NzUzNTMyNTMsImlhdCI6MTY3NTI2Njg1M30.f0he8KJ1H8SH1jvv4S0ozv1QkbcDXOq19KKob0vM685iKqwc6SgXGGLsyQ3QlxNjhyLhovxDorH0WDkAd3xsgA
+47.484430 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 59566 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMzIiLCJpZCI6MjMyLCJleHAiOjE2NzUzNTMyNTMsImlhdCI6MTY3NTI2Njg1M30.f0he8KJ1H8SH1jvv4S0ozv1QkbcDXOq19KKob0vM685iKqwc6SgXGGLsyQ3QlxNjhyLhovxDorH0WDkAd3xsgA , Java/16.0.1
+47.488766 , HTTP , HTTP/1.1 , status=200 , 8081 , 59566
+47.489371 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 59554 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMzIiLCJpZCI6MjMyLCJleHAiOjE2NzUzNTMyNTMsImlhdCI6MTY3NTI2Njg1M30.f0he8KJ1H8SH1jvv4S0ozv1QkbcDXOq19KKob0vM685iKqwc6SgXGGLsyQ3QlxNjhyLhovxDorH0WDkAd3xsgA
+47.658417 , HTTP , GET , path=/client/Products , HTTP/1.1 , 59554 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+47.659468 , HTTP , GET , path=/client , HTTP/1.1 , 59567 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+47.659741 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59568 , 8081 , Java/16.0.1
+47.659919 , HTTP , HTTP/1.1 , status=302 , 8083 , 59567

@@ -1,0 +1,10 @@
+87.127514 , HTTP , HTTP/1.1 , status=200 , (text/css) , 8083 , 60223
+87.128404 , HTTP , HTTP/1.1 , status=200 , (text/css) , 53856 , 60222
+87.129778 , HTTP , GET , path=http://localhost:8083/docs/images/tomcat.png , HTTP/1.1 , 60225 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+87.129825 , HTTP , GET , path=http://localhost:8083/docs/images/asf-logo.svg , HTTP/1.1 , 60226 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+87.130775 , HTTP , GET , /docs/images/asf-logo.svg , HTTP/1.1 , 60223 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+87.131220 , HTTP , GET , /docs/images/tomcat.png , HTTP/1.1 , 60227 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+87.133595 , HTTP , GET , path=http://localhost:8083/docs/images/fonts/fonts.css , HTTP/1.1 , 60222 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+87.134308 , HTTP , HTTP/1.1 , status=200 , (PNG) , 8083 , 60227
+87.134434 , HTTP/XML , HTTP/1.1 , status=200 , 8083 , 60223
+87.134946 , HTTP , GET , /docs/images/fonts/fonts.css , HTTP/1.1 , 60228 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"

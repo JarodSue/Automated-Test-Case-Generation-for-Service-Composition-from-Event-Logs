@@ -1,0 +1,10 @@
+145.158517 , HTTP , HTTP/1.1 , status=200 , 8081 , 61237
+145.158983 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 61181 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzYiLCJpZCI6MzM2LCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.I6LHWy-SJx3BTYvxQXCHLISm9LbN14VoDFbsnenkVm8UAotTA1pGeWLwti-M_9Ck01up5z08MMnwvKPbKULYkw
+145.159762 , HTTP , GET , path=/client/Products/1 , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML , like Gecko) Versionpath=/4.0 Mobile/7A341 Safari/528.16"
+145.160599 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61238 , 8081 , Java/16.0.1
+145.231532 , HTTP , HTTP/1.1 , status=200 , 8081 , 61233 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzciLCJpZCI6MzM3LCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.Bs1mtOrtnuTgcsMTwRAdILkrIkDiEAtAzYEyIW8MBIsem48jHhxXQoOqzUi7YeI1h3-plI6SizaFUz2qGhKzow
+145.232653 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 61232
+145.240816 , HTTP , GET , path=/client/Products , HTTP/1.1 , 61239 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+145.241807 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61240 , 8081 , Java/16.0.1
+145.311647 , HTTP , HTTP/1.1 , status=200 , 8081 , 61238 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzgiLCJpZCI6MzM4LCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.3c3yfFKbkDisqwAreUyze2xPFh9yVQxPvqLEP_Aahy9O-xaPzZMpEHjweleLyra-inJPEODVdbHCVJR5Z7gUlQ
+145.312683 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61241 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzgiLCJpZCI6MzM4LCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.3c3yfFKbkDisqwAreUyze2xPFh9yVQxPvqLEP_Aahy9O-xaPzZMpEHjweleLyra-inJPEODVdbHCVJR5Z7gUlQ , Java/16.0.1

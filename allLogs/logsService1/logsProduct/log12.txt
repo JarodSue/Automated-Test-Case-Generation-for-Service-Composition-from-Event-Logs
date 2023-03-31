@@ -1,0 +1,4 @@
+25.017921 , HTTP , DELETE , path=/prod/Products/1 , 57617 , 8080 , Bearer o
+25.020380 , HTTP , GET , path=/ident/TokenVerification , 8080 , 8081 , Bearer o
+25.499167 , HTTP , status=500 , 8081 , 8080
+25.501849 , HTTP/JSON , status=401 , body={"timestamp": "2023-03-03T16:06:13.277+00:00","status": 500,"error": "Internal Server Error","path": "prod/Products/Buy/1"} , 8080 , 57617

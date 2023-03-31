@@ -1,0 +1,10 @@
+141.608338 , HTTP , GET , path=/client , HTTP/1.1 , 61119 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+141.608620 , HTTP , HTTP/1.1 , status=302 , 8083 , 61119
+141.609460 , HTTP , GET , path=/client/ , HTTP/1.1 , 61120 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+141.610279 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61121 , 8081 , Java/16.0.1
+141.625284 , HTTP , HTTP/1.1 , status=200 , 8081 , 61115
+141.626240 , HTTP/JSON , PUT , path=/prod/Products/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 61122 , 8080 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+141.628158 , HTTP , GET , path=/ident/TokenVerification , HTTP/1.1 , 61123 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkdWNrIiwiaWQiOjEsImV4cCI6MTYzNjYzNTAzOCwiaWF0IjoxNjM2NTQ4NjM4fQ.MFAfjufIj-Uk8fh1GzDql8XYIlEUgRWQf1oKs_CVmFv2s2XRtGG22UHtq8WSAZzFZsL6wHK8jLnpuEEDVK2IGw , Java/16.0.1
+141.761616 , HTTP , HTTP/1.1 , status=200 , 8081 , 61121 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMDkiLCJpZCI6MzA5LCJleHAiOjE2NzUzNTMzNDcsImlhdCI6MTY3NTI2Njk0N30.Imkbzx1a_BSOllkFNIGDYrO7QKgik7XsPeDOZ8QZr5ybTGaO4ld3qPNOsyPu3sgVomg64J4F7RBTlwmMdZ4Fgw
+141.762996 , HTTP/JSON , HTTP/1.1 , status=400 , JavaScript Object Notation (application/json) , 8083 , 61120
+141.771008 , HTTP , GET , path=/client , HTTP/1.1 , 61124 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko"

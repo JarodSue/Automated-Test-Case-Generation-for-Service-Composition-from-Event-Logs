@@ -1,0 +1,10 @@
+82.684223 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+82.686463 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/execute/sync , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+82.692198 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+82.694566 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/execute/sync , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+82.700142 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+82.701944 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/8fe6a3e3-7ada-4a2e-8014-662dded6e119path=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+82.717557 , HTTP , HTTP/1.1 , status=200 , 8081 , 60213 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNDQiLCJpZCI6MjQ0LCJleHAiOjE2NzUzNTMyODgsImlhdCI6MTY3NTI2Njg4OH0.KaquanOhEEYfugOpZYWp3Dh5o5pvNfxaHpJ5AtBanJb1w6xlvuxeinL_xJXsKmJ9EGapX3ef3YKSIQ1lBGTNJg
+82.720200 , HTTP , HTTP/1.1 , status=405 , (text/html) , 8083 , 60197
+82.721071 , HTTP , HTTP/1.1 , status=405 , (text/html) , 53856 , 60200
+82.735394 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153

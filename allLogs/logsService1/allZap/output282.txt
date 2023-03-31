@@ -1,0 +1,10 @@
+86.799775 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+86.800299 , HTTP , GET , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/alert/text , HTTP/1.1 , 60153 , 6455 , selenium/unknown (java windows)
+86.801251 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 6455 , 60153
+86.803010 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+86.806962 , HTTP , GET , path=http://localhost:8083path=/client/Products?name=abc , HTTP/1.1 , 60200 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+86.808089 , HTTP , GET , path=/client/Products?name=abc , HTTP/1.1 , 60223 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+86.809032 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60224 , 8081 , Java/16.0.1
+86.960521 , HTTP , HTTP/1.1 , status=200 , 8081 , 60224 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNDgiLCJpZCI6MjQ4LCJleHAiOjE2NzUzNTMyOTIsImlhdCI6MTY3NTI2Njg5Mn0.MIP0zi9N6lUc9aabsS9560omGDvU2GzDV2Mwq_vWGK7rAJ6VhMD31ciAsWj65YEdow5kJGM8VpzNTu-TNiuu9A
+86.967563 , HTTP , HTTP/1.1 , status=405 , (text/html) , 8083 , 60223
+86.968342 , HTTP , HTTP/1.1 , status=405 , (text/html) , 53856 , 60200

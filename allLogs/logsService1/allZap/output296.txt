@@ -1,0 +1,10 @@
+87.584997 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 60231 , 8081 , Java/16.0.1
+87.729120 , HTTP , HTTP/1.1 , status=200 , 8081 , 60229 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNDkiLCJpZCI6MjQ5LCJleHAiOjE2NzUzNTMyOTMsImlhdCI6MTY3NTI2Njg5M30.h5vI0WrbIoOv7jhIEKRcy9aEh1upyAu_qNXO0MBamG85EV8tDCPGxuG6AxVV3KbXy39l-Dq0ebDytecA8jXyxA
+87.730222 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 60223
+87.778432 , HTTP , HTTP/1.1 , status=200 , 8081 , 60231 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTAiLCJpZCI6MjUwLCJleHAiOjE2NzUzNTMyOTMsImlhdCI6MTY3NTI2Njg5M30.zTODH0eoxMqoQ24qGdamK95fVgiNVTmVgMIz8INUZumBGUt77MrguRKdWw0WVRmk4PJzz7kJ5KgDlECJx7y12w
+87.783156 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60230
+87.783895 , HTTP , HTTP/1.1 , status=400 , (text/html) , 53856 , 60200
+87.789980 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+87.791993 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+87.796241 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+87.798020 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/elements , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)

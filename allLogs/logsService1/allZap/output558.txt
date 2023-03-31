@@ -1,0 +1,10 @@
+135.469166 , HTTP , GET , /CVS/root , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.470041 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.470768 , HTTP , GET , /server-status , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.471569 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.472362 , HTTP , GET , /core , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.473211 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.473970 , HTTP , GET , /sftp-config.json , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.474832 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.475670 , HTTP , GET , /WS_FTP.ini , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.476509 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931

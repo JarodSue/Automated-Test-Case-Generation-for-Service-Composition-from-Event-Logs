@@ -1,0 +1,10 @@
+81.591787 , TLSv1.3 , Change Cipher Spec , Application Data , 60202 , 53856
+81.591951 , TLSv1.3 , Application Data , 60202 , 53856
+81.592603 , TLSv1.3 , Application Data , 53856 , 60202
+81.713925 , TLSv1.3 , Application Data , Application Data , 53856 , 60202
+81.733394 , TLSv1.3 , Application Data , 60202 , 53856
+81.734506 , HTTP , CONNECT tomcat.apache.org:443 , HTTP/1.1 , 60205 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.735115 , HTTP , CONNECT tomcat.apache.org:443 , HTTP/1.1 , 60206 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+81.735160 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60205
+81.735718 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60206
+81.736140 , TLSv1.3 , Client Hello , 60205 , 53856

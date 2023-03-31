@@ -1,0 +1,10 @@
+80.216334 , TLSv1.3 , Client Hello , 60182 , 53856
+80.217378 , TLSv1.3 , Application Data , 60181 , 53856
+80.238297 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60182
+80.244689 , TLSv1.3 , Application Data , 60182 , 53856
+80.590370 , HTTP , CONNECT location.services.mozilla.com:443 , HTTP/1.1 , 60183 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.590862 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60183
+80.591668 , TLSv1.3 , Client Hello , 60183 , 53856
+80.606786 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60183
+80.609686 , HTTP , CONNECT shavar.services.mozilla.com:443 , HTTP/1.1 , 60184 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.610562 , HTTP , HTTP/1.1 , status=200 , Connection established , 53856 , 60184

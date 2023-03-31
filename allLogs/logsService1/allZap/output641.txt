@@ -1,0 +1,10 @@
+145.801981 , HTTP/JSON , HTTP/1.1 , status=200 , JavaScript Object Notation (application/json) , 8080 , 61258 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNDIiLCJpZCI6MzQyLCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.WOYfBTrJdB7ZcWEwyXho-6OHkGtOpD-vDbnU1HUnzFrYYKPrBiR4GZoJpJWoWmpJOSH6jwWr1iim215zoNDfRA
+145.802670 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 61260 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNDIiLCJpZCI6MzQyLCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.WOYfBTrJdB7ZcWEwyXho-6OHkGtOpD-vDbnU1HUnzFrYYKPrBiR4GZoJpJWoWmpJOSH6jwWr1iim215zoNDfRA , Java/16.0.1
+145.806028 , HTTP , HTTP/1.1 , status=200 , 8081 , 61260
+145.806581 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 61181 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNDIiLCJpZCI6MzQyLCJleHAiOjE2NzUzNTMzNTEsImlhdCI6MTY3NTI2Njk1MX0.WOYfBTrJdB7ZcWEwyXho-6OHkGtOpD-vDbnU1HUnzFrYYKPrBiR4GZoJpJWoWmpJOSH6jwWr1iim215zoNDfRA
+145.944720 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 8.0; Windows NT 6.1)"
+145.947325 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181
+145.949411 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 7.0; Windows NT 6.0)"
+145.950120 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181
+145.954920 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083 , "Mozillapath=/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"
+145.955694 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181

@@ -1,0 +1,10 @@
+91.981296 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60233 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTQiLCJpZCI6MjU0LCJleHAiOjE2NzUzNTMyOTcsImlhdCI6MTY3NTI2Njg5N30.sng83cv7bEUMR9B65Q1808XA_b0NAeR0LJjYBLgAiwVBnWqiBreRRDQ1WppSrlUTephGjNlKL6g2pg0kVNiz_Q
+91.982291 , HTTP , HTTP/1.1 , status=200 , (text/html) , 53856 , 60235 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyNTQiLCJpZCI6MjU0LCJleHAiOjE2NzUzNTMyOTcsImlhdCI6MTY3NTI2Njg5N30.sng83cv7bEUMR9B65Q1808XA_b0NAeR0LJjYBLgAiwVBnWqiBreRRDQ1WppSrlUTephGjNlKL6g2pg0kVNiz_Q
+91.993516 , TLSv1.3 , Application Data , 53856 , 60205
+91.997417 , TLSv1.3 , Application Data , Application Data , 53856 , 60206
+92.002207 , TLSv1.3 , Application Data , 60205 , 53856
+92.006107 , TLSv1.3 , Application Data , 60211 , 53856
+92.006267 , TLSv1.3 , Application Data , 60206 , 53856
+92.007703 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+92.008376 , HTTP , GET , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/alert/text , HTTP/1.1 , 60153 , 6455 , selenium/unknown (java windows)
+92.008421 , TLSv1.3 , Application Data , 60202 , 53856

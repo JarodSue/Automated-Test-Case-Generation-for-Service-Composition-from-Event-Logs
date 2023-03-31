@@ -1,0 +1,10 @@
+80.953386 , HTTP , GET , /asf-logo-wide.svg , HTTP/1.1 , 60196 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.954019 , HTTP/XML , HTTP/1.1 , status=200 , 8083 , 60190
+80.954071 , HTTP , HTTP/1.1 , status=200 , (PNG) , 53856 , 60188
+80.955736 , HTTP/XML , HTTP/1.1 , status=200 , 53856 , 60189
+80.956388 , HTTP , HTTP/1.1 , status=200 , (PNG) , 8083 , 60198
+80.956842 , HTTP/XML , HTTP/1.1 , status=200 , 8083 , 60196
+80.957403 , HTTP , HTTP/1.1 , status=200 , (PNG) , 53856 , 60193
+80.957658 , HTTP/XML , HTTP/1.1 , status=200 , 53856 , 60191
+80.959251 , HTTP , HTTP/1.1 , status=200 , (PNG) , 8083 , 60197
+80.959605 , HTTP , HTTP/1.1 , status=200 , (PNG) , 8083 , 60199

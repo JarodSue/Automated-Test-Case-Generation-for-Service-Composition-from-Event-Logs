@@ -1,0 +1,10 @@
+80.866145 , HTTP , GET , path=http://localhost:8083/ , HTTP/1.1 , 60186 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.867908 , HTTP , GET , / , HTTP/1.1 , 60187 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.870783 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60187
+80.871689 , HTTP , HTTP/1.1 , status=200 , (text/html) , 53856 , 60186
+80.934509 , HTTP , GET , path=http://localhost:8083/tomcat.css , HTTP/1.1 , 60188 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.936398 , HTTP , GET , /tomcat.css , HTTP/1.1 , 60190 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.937803 , HTTP , HTTP/1.1 , status=200 , (text/css) , 8083 , 60190
+80.938677 , HTTP , HTTP/1.1 , status=200 , (text/css) , 53856 , 60188
+80.938910 , HTTP , GET , path=http://localhost:8083/tomcat.svg , HTTP/1.1 , 60189 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+80.939398 , HTTP , GET , /tomcat.svg , HTTP/1.1 , 60190 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"

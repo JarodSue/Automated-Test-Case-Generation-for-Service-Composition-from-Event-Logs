@@ -1,0 +1,10 @@
+95.809941 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/element/92eac618-ad14-45bc-b97a-1ac0cf27627epath=/click , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+95.818561 , HTTP , GET , path=http://localhost:8083/manager/status , HTTP/1.1 , 60264 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+95.819711 , HTTP , GET , /manager/status , HTTP/1.1 , 60265 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+95.820446 , HTTP , HTTP/1.1 , status=401 , (text/html) , 8083 , 60265
+95.821487 , HTTP , HTTP/1.1 , status=401 , (text/html) , 53856 , 60264
+95.833839 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+95.835459 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+95.844995 , HTTP , GET , path=http://localhost:8083/?name=abc , HTTP/1.1 , 60264 , 53856 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+95.845661 , HTTP , GET , /?name=abc , HTTP/1.1 , 60265 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+95.846249 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60265

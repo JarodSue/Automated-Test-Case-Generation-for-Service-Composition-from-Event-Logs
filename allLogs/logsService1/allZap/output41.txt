@@ -1,0 +1,10 @@
+38.618012 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59404
+38.618593 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 59406
+38.824905 , HTTP , GET , path=/client/Products/1/buy?-s , HTTP/1.1 , 59404 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+38.828144 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 59407 , 8081 , Java/16.0.1
+38.828664 , HTTP , GET , /?-s , HTTP/1.1 , 59408 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+38.852889 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 59408
+39.010220 , HTTP , HTTP/1.1 , status=200 , 8081 , 59407 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyMTMiLCJpZCI6MjEzLCJleHAiOjE2NzUzNTMyNDQsImlhdCI6MTY3NTI2Njg0NH0.M-IrnXnN0iJaMThf8owsgWX5MrHhltzadpjaGvlIjlkSpH8T_CZR7XdkN-7lnGCFNgGlGkxyzpX8qRdsoWcxng
+39.011668 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 59404
+39.037306 , HTTP , GET , path=/client , HTTP/1.1 , 59409 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+39.037731 , HTTP , HTTP/1.1 , status=302 , 8083 , 59409

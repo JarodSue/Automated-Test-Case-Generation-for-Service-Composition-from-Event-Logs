@@ -1,0 +1,10 @@
+81.737084 , TLSv1.3 , Client Hello , 60206 , 53856
+81.753734 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60206
+81.757597 , TLSv1.3 , Server Hello , Change Cipher Spec , Application Data , 53856 , 60205
+81.758096 , TLSv1.3 , Change Cipher Spec , Application Data , 60206 , 53856
+81.759040 , TLSv1.3 , Application Data , 53856 , 60206
+81.759092 , TLSv1.3 , Application Data , 60206 , 53856
+81.761535 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 6455 , 60153
+81.763489 , HTTP/JSON , POST , path=/session/1b7b3e0e-ca75-4a51-9784-b13484c06a95/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60153 , 6455 , selenium/unknown (java windows)
+81.766953 , TLSv1.3 , Change Cipher Spec , Application Data , 60205 , 53856
+81.767162 , TLSv1.3 , Application Data , 60205 , 53856

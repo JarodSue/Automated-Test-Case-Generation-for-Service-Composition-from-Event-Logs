@@ -1,0 +1,10 @@
+122.999072 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60723
+123.001187 , HTTP , POST , /latest/meta-data/ , HTTP/1.1 , 60723 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+123.001597 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60724
+123.002065 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60723
+123.004553 , HTTP , POST , /latest/meta-data/ , HTTP/1.1 , 60723 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+123.005771 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60723
+123.007841 , HTTP , POST , /latest/meta-data/ , HTTP/1.1 , 60723 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+123.008853 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60723
+123.206053 , HTTP , POST , path=/client/Products/1/buy/ , HTTP/1.1 , 60723 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+123.208581 , HTTP/JSON , POST , path=/client/Products/1/buy/ , HTTP/1.1 , JavaScript Object Notation (application/json) , 60725 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"

@@ -1,0 +1,10 @@
+145.957514 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko"
+145.958178 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181
+145.959923 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML , like Gecko) Chrome/75.0.3739.0 Safari/537.36 Edg/75.0.109.0"
+145.960634 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181
+145.962267 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (compatible; Googlebot/2.1; +path=http://www.google.com/bot.html)"
+145.962926 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181
+145.964685 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083msnbot/1.1 (+path=http://search.msn.com/msnbot.htm)
+145.965397 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181
+145.967136 , HTTP , GET , /sitemap.xml , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (compatible; Yahoo! Slurp; path=http://help.yahoo.com/help/us/ysearch/slurp)"
+145.967867 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 61181

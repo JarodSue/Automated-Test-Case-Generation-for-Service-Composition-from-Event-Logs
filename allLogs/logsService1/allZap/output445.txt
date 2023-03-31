@@ -1,0 +1,10 @@
+103.235578 , HTTP , GET , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/alert/text , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+103.236454 , HTTP/JSON , HTTP/1.1 , status=400 , Not Found , JavaScript Object Notation (application/json) , 5086 , 60152
+103.237899 , HTTP/JSON , POST , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa/url , HTTP/1.1 , JavaScript Object Notation (application/json) , 60152 , 5086 , selenium/unknown (java windows)
+103.249723 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152
+103.251464 , HTTP , DELETE , path=/session/1d613d64-96d3-458e-9ae1-32a1307afbaa , HTTP/1.1 , 60152 , 5086 , selenium/unknown (java windows)
+103.253468 , TLSv1.3 , Application Data , 60205 , 53856
+103.253826 , TLSv1.3 , Application Data , 60202 , 53856
+103.253982 , TLSv1.3 , Application Data , 60211 , 53856
+103.254198 , TLSv1.3 , Application Data , 60206 , 53856
+103.841910 , HTTP/JSON , HTTP/1.1 , status=200 , OK , JavaScript Object Notation (application/json) , 5086 , 60152

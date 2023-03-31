@@ -1,0 +1,10 @@
+144.669787 , HTTP/JSON , HTTP/1.1 , status=200 , JavaScript Object Notation (application/json) , 8080 , 61214 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzAiLCJpZCI6MzMwLCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.bcoJmNJzP9XW31G51vU_oLAGkcwc73Y0b2aImuRHU5yrMrp5qy5nM2iIKfXtn0HP2Db0zCmqB5LwadtNy-3Zgg
+144.670447 , HTTP , DELETE , path=/ident/delete/Anonymous , HTTP/1.1 , 61216 , 8081 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzAiLCJpZCI6MzMwLCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.bcoJmNJzP9XW31G51vU_oLAGkcwc73Y0b2aImuRHU5yrMrp5qy5nM2iIKfXtn0HP2Db0zCmqB5LwadtNy-3Zgg , Java/16.0.1
+144.673357 , HTTP , HTTP/1.1 , status=200 , 8081 , 61216
+144.673834 , HTTP , HTTP/1.1 , status=200 , (text/plain) , 8083 , 61181 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzAiLCJpZCI6MzMwLCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.bcoJmNJzP9XW31G51vU_oLAGkcwc73Y0b2aImuRHU5yrMrp5qy5nM2iIKfXtn0HP2Db0zCmqB5LwadtNy-3Zgg
+144.674586 , HTTP , GET , path=/client/Products/1 , HTTP/1.1 , 61181 , 8083 , "Mozilla/5.0 (compatible; Googlebot/2.1; +path=http://www.google.com/bot.html)"
+144.675370 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61217 , 8081 , Java/16.0.1
+144.756101 , HTTP , HTTP/1.1 , status=200 , 8081 , 61212 , Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzMzEiLCJpZCI6MzMxLCJleHAiOjE2NzUzNTMzNTAsImlhdCI6MTY3NTI2Njk1MH0.1OLfL3qAnt74Zdo2yP6GLbVvImsZAyZaGr6dGjR5O5EIxOANEbhhlGEY2E7jjEb5AGmbCEWZrs2dW7bMocqTnA
+144.757209 , HTTP/JSON , HTTP/1.1 , status=405 , JavaScript Object Notation (application/json) , 8083 , 61211
+144.764638 , HTTP , GET , path=/client/Products , HTTP/1.1 , 61218 , 8083 , "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML , like Gecko) Versionpath=/4.0 Mobile/7A341 Safari/528.16"
+144.765419 , HTTP , POST , path=/ident/register/Anonymous , HTTP/1.1 , 61219 , 8081 , Java/16.0.1

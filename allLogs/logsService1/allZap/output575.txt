@@ -1,0 +1,10 @@
+137.738367 , HTTP , POST , / , HTTP/1.1 , 60975 , 8083msnbot/1.1 (+path=http://search.msn.com/msnbot.htm)
+137.738927 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60975
+137.740225 , HTTP , POST , / , HTTP/1.1 , 60976 , 8083 , "Mozilla/5.0 (compatible; Yahoo! Slurp; path=http://help.yahoo.com/help/us/ysearch/slurp)"
+137.741045 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60976
+137.749362 , HTTP , POST , / , HTTP/1.1 , 60977 , 8083 , "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML , like Gecko) Versionpath=/4.0 Mobile/7A341 Safari/528.16"
+137.749941 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60977
+137.751847 , HTTP , POST , / , HTTP/1.1 , 60978 , 8083 , "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML , like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+137.752705 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60978
+137.754301 , HTTP , POST , / , HTTP/1.1 , 60979 , 8083 , "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/91.0"
+137.754974 , HTTP , HTTP/1.1 , status=200 , (text/html) , 8083 , 60979

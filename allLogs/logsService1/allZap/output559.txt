@@ -1,0 +1,10 @@
+135.477419 , HTTP , GET , /ws_ftp.ini , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.478308 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.479096 , HTTP , GET , /WS_FTP.INI , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.479921 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.480915 , HTTP , GET , /filezilla.xml , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.481864 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.482717 , HTTP , GET , /sitemanager.xml , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.483645 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
+135.484457 , HTTP , GET , /FileZilla.xml , HTTP/1.1 , 60931 , 8083 , "Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:105.0esr) Gecko/20010101 Firefox/105.0esr"
+135.485296 , HTTP , HTTP/1.1 , status=400 , (text/html) , 8083 , 60931
