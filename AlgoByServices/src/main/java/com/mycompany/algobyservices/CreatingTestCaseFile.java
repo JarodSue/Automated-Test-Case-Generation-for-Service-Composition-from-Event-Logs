@@ -22,6 +22,7 @@ import java.util.Map.Entry;
  * @author jarod
  */
 public class CreatingTestCaseFile {
+    public static boolean isMultiple;
     public static int createFile(ArrayList<TestCase> test, String PCO) throws IOException, InterruptedException {
         int nbTestCreated=0;
         try {
@@ -167,8 +168,12 @@ strForEachMock+
 "               }        \n" +
 "\n" +
                 
-"            public static void verif() {\n"+ 
-               strVerifyingMock+                    
+"            public static void verif() {\n";
+                if(!isMultiple){
+                        str+=
+                        strVerifyingMock;
+               }
+                str+=
 "           }\n" +
 "\n"+ 
 "        @AfterClass \n" +
@@ -334,6 +339,7 @@ str+="                                   .header(\"Content-Type\", \"application
                             }
            
         if(test.getTree().size()>1){
+            isMultiple=true;
             strForEachTestToReturn=createStringForEachTestCaseWhenResponseFromTestedService(ev,strForEachTestToReturn, token, true, true);
             strForEachTestToReturn+=
 "               variable(\"conditionnal\", \"${statusCode}\");\n"+
@@ -343,6 +349,10 @@ str+="                                   .header(\"Content-Type\", \"application
                 System.out.println(tc2.getEventHere().getligne());
                 strForEachTestToReturn+=
     "                            if(conditionnal.equals("+tc2.getTree().get(0).getEventHere().getCode()+")){";
+                isAMockRequest=true;
+                String URL=ev.getURL();
+                String method=ev.getVerb();
+                strForEachMockToReturn+=createStringForEachMockServerWhenRequest(strForEachMockToReturn,URL,method,token)  ;  
                 for(TestCase tc : tc2.getTree()){
                     
 
