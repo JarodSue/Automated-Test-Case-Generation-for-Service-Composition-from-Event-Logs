@@ -31,8 +31,7 @@ public class CoreAlgorithmPart1ReadingResultsAndAdaptingTraces {
         //Path To Your Regex
         Regex reg = new Regex("C:\\Users\\jarod\\Documents\\tests\\logsprets\\regexLogMieux.txt");
         //Path To your logs
-        listOfFiles.add(new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testConditionnal\\logs.txt"));
-        listOfFiles.add(new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testConditionnal\\logs2.txt"));
+        listOfFiles.add(new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\logs.txt"));
         ArrayList<Trace> allTraces= new ArrayList<Trace>();
         for(File soloFile : listOfFiles){
             Trace a = Main.mainFile(soloFile, reg );
@@ -43,7 +42,6 @@ public class CoreAlgorithmPart1ReadingResultsAndAdaptingTraces {
         for(Trace trace : allTraces){
             Conversation convToAddToTheListOfAllConv=new Conversation();
             for(EventSplit evSplit: trace.getSeq()){
-                System.out.println(trace.getSeq());
                 convToAddToTheListOfAllConv.addEvent(new Event(evSplit));
             };
             arrayListFromTracesToConv.add(convToAddToTheListOfAllConv);
@@ -51,7 +49,7 @@ public class CoreAlgorithmPart1ReadingResultsAndAdaptingTraces {
 
         ArrayList<String> PCO = new ArrayList<String>();
         ArrayList<String> PO = new ArrayList<String>();
-        PCO.add("8081");
+        PCO.add("8080");
         HashMap<String, ArrayList<Cluster>> hashMapOfEveryPCOThatCanBeTestedWithTheirRespectiveAbstractTraces = AlgoCreatingClustersAndAbstractTraces.AlgoClusterisationAndCreatingAbstractTracesWithUserRequests(arrayListFromTracesToConv, PCO);
         for(String str : PCO){
                             

@@ -19,8 +19,6 @@ public class CoreAlgo3CreatingTestCasesFromClusters {
     public static ArrayList<TestCase> creatingTestCasesFromClusters(ArrayList<Cluster> ATraces, String PCO){
         ArrayList<TestCase> TC= new ArrayList<TestCase>();
         ArrayList<Cluster> ATraces2=new ArrayList<>();
-        System.out.println("nbClust");
-        System.out.println(ATraces.size());
         for(Cluster clust : ATraces){
             ATraces2.add(new Cluster(clust));
         }
@@ -44,11 +42,7 @@ public class CoreAlgo3CreatingTestCasesFromClusters {
                         for(Cluster otherCluster : ATraces2){
                             Conversation conv=otherCluster.getFirstElement();
                             int numberOfSimilarities=compareConv(clus,otherCluster, PCO);
-                            System.out.println("SimiCompareConv");
-                            System.out.println(numberOfSimilarities);
                             if(numberOfSimilarities>0){
-                                System.out.println("nb simi");
-                                System.out.println(numberOfSimilarities);
                                 ArrayList<Event> copyOfConvForTestCaseWithSimilarities=new ArrayList<Event>();
                                 for(Event ev : choosedConv.getConv()){
                                     copyOfConvForTestCaseWithSimilarities.add(new Event(ev));
@@ -148,14 +142,6 @@ public class CoreAlgo3CreatingTestCasesFromClusters {
         }
         if(zero){
             numberOfSimilarities=0;
-        }
-        else{
-            if(numberOfSimilarities>0){
-                System.out.println(clus.getFirstElement().getConv().get(numberOfSimilarities-1).getligne());
-                System.out.println(otherClus.getFirstElement().getConv().get(numberOfSimilarities-1).getligne());
-                System.out.println(clus.getFirstElement().getConv().get(numberOfSimilarities-1).getTo());
-                System.out.println(otherClus.getFirstElement().getConv().get(numberOfSimilarities-1).getTo());
-            }
         }
         return numberOfSimilarities;
     }

@@ -87,7 +87,6 @@ public class AdaptingTracesToIOLTS {
                 }
             }
         }
-        System.out.println(newConversationWithOnlyDependancies);
         return newConversationWithOnlyDependancies;
         
     }

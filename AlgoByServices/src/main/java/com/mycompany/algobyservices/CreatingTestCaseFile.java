@@ -23,8 +23,11 @@ import java.util.Map.Entry;
  */
 public class CreatingTestCaseFile {
     public static boolean isMultiple;
+    public static int numberOfResponses;
+    
     public static int createFile(ArrayList<TestCase> test, String PCO) throws IOException, InterruptedException {
         int nbTestCreated=0;
+        numberOfResponses=0;
         try {
             int numberOfTests=0;
             for(TestCase tc : test){
@@ -34,7 +37,7 @@ public class CreatingTestCaseFile {
                     nbTestCreated++;
                     nameTC.showTreeForShowing(0);
                  //where the results are gonna be saved
-                File myObj = new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testConditionnal\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");
+                File myObj = new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");
                 if (myObj.createNewFile()) {
                   PrintWriter writer = new PrintWriter(myObj);
                   writer.println(createStringForTestCase(nameTC,numberOfTests));
@@ -42,7 +45,7 @@ public class CreatingTestCaseFile {
                 } else {
                     myObj.delete();
                     //if the results file already exist, delete it and recreate it
-                     File myObj2 = new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testConditionnal\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");               
+                     File myObj2 = new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");               
                      PrintWriter writer = new PrintWriter(myObj2);
                   writer.println(createStringForTestCase(nameTC,numberOfTests));
                   writer.close();
@@ -87,7 +90,6 @@ public class CreatingTestCaseFile {
             String strForEachTest=strToAdd.get(0);
             String strForEachMock=strToAdd.get(1);
             String strVerifyingMock="";
-            System.out.println("dernier");
             HashMap<String,Integer> hashMapOfUrls=new HashMap<>();
             if(strToAdd.get(2).length()>1){
                 String verifyingMock=strToAdd.get(2).substring(0,strToAdd.get(2).length()-1);
@@ -103,8 +105,6 @@ public class CreatingTestCaseFile {
                 }
             }
             strVerifyingMock=verifyMock(strVerifyingMock,hashMapOfUrls);
-            
-            System.out.println(allRequestsAndWaitedResponsesArray.get(allRequestsAndWaitedResponsesArray.size()-1).getBody());
  
             
         String str ="\n" +
@@ -116,6 +116,7 @@ public class CreatingTestCaseFile {
 "import static org.junit.jupiter.api.Assertions.assertEquals;\n" +
 "import com.consol.citrus.context.TestContext;\n" +
 "import com.consol.citrus.annotations.CitrusResource;\n" +
+"import static org.testng.Assert.assertTrue;"+
 "import com.consol.citrus.annotations.CitrusTest;\n" +
 "import static com.consol.citrus.dsl.MessageSupport.MessageHeaderSupport.fromHeaders;\n" +
 "import com.consol.citrus.dsl.endpoint.CitrusEndpoints;\n" +
@@ -158,6 +159,9 @@ strForEachMock+
 "    @Test\n" +
 "    @CitrusTest\n" +
 "    public void testAlgo1() throws FileNotFoundException{\n" +
+"          String token=\"\";"+   
+"          String body=\"\";"+   
+"          String status=\"\";"+   
 "                            HttpClient toClient = CitrusEndpoints\n" +
 "                                .http()\n" +
 "                                .client()\n" +
@@ -225,36 +229,55 @@ str+="                                   .header(\"Content-Type\", \"application
               
         return str;
     }
-    private static String createStringForEachTestCaseWhenResponseFromTestedService(Event ev,String str,String token, boolean dernier, boolean isMultipleBody){
+    private static String createStringForEachTestCaseWhenResponseFromTestedService(Event ev,String str,String token, boolean isMultipleBody){
             str+=
 "                            $(receive(toClient)\n" +
 "                                .message()\n" +
 "                                .type(MessageType.PLAINTEXT)\n"+
-"                                .name(\"Response\")\n";
-                                
-            if(dernier){
+"                                .name(\"Response"+numberOfResponses+"\")\n";
                 str+="                                .extract(fromHeaders()\n"+
-                        "                                    .header(HttpMessageHeaders.HTTP_STATUS_CODE, \"statusCode\"))\n";
-            }
-            else{
-                str+="                                .header(HttpMessageHeaders.HTTP_STATUS_CODE,"+ev.getCode()+")\n";
-            }
-            
+                        "                                    .header(HttpMessageHeaders.HTTP_STATUS_CODE, \"statusCode\")\n";
 
             if(!token.equals("")){
-            str+= "                                   .header(\"Authorization\", \""+token+"\")\n";
+            str+= "                                   .header(\"Authorization\", \"token\")\n";
          } 
-            if(!isMultipleBody){
-            String getBody=ev.getBody().replace("\"", "\\\"");
-            if((!getBody.equals("")) && (!getBody.contains("timestamp"))){
-                            str+="                .body(\""+getBody+"\")\n";
-                        }
-            }
- str+=
-");        \n";
+            
+            str+=
+"));        \n";
+ 
+ 
+                String Status=Integer.toString(ev.getCode());
+
+                String FirstPossibleAnswer=ev.getBody().replace("\"", "\\\"");
+
+                str+="\n"+
+"                variable(\"body\",\n"+
+"                \"citrus:message(Response"+numberOfResponses+".body())\");\n"+
+"                variable(\"status\", \"${statusCode}\");\n";
+                if(!token.equals("")){
+                    str+=
+"                variable(\"token\", \"${token}\");\n"+
+"                token = context.getVariable(\"token\");\n";
+                }
+                str+=
+"                body = context.getVariable(\"body\");\n"+
+"                status = context.getVariable(\"status\");\n"+
+"                if ((status.equals(\""+ev.getCode()+"\"))";                       
+               
+                 if((!FirstPossibleAnswer.equals("")) && (!FirstPossibleAnswer.contains("timestamp"))){
+                     str+="&& (body.equals(\""+FirstPossibleAnswer+"\"))";
+                }
+                 if(!token.equals("")){
+                     str+=" && (token.equals(\""+token+"\"))";
+                }
+                str+=
+"){assertTrue(true);}\n"+
+"                else {Assumptions.assumeTrue(false ,\"Inconclusive\") ;}\n";
+            numberOfResponses++;
         return str;
     }
     
+   
 
     private static String createStringForEachMockServerWhenRequest(String str,String URL,String method,String token){
     str+=
@@ -330,17 +353,17 @@ str+="                                   .header(\"Content-Type\", \"application
                             }
                             else if((ev.isResp())&&(ev.getFrom().equals(firstRequest.getTo()))){
                                 if(test.getTree().size()==0){
-                                    strForEachTestToReturn=createStringForEachTestCaseWhenResponseFromTestedService(ev,strForEachTestToReturn, token, true, false);
+                                    strForEachTestToReturn=createStringForEachTestCaseWhenResponseFromTestedService(ev,strForEachTestToReturn, token,  false);
 
                                 }
                                 else{
-                                    strForEachTestToReturn=createStringForEachTestCaseWhenResponseFromTestedService(ev,strForEachTestToReturn, token, false, false);
+                                    strForEachTestToReturn=createStringForEachTestCaseWhenResponseFromTestedService(ev,strForEachTestToReturn, token,  false);
                                 }
                             }
            
         if(test.getTree().size()>1){
             isMultiple=true;
-            strForEachTestToReturn=createStringForEachTestCaseWhenResponseFromTestedService(ev,strForEachTestToReturn, token, true, true);
+            strForEachTestToReturn=createStringForEachTestCaseWhenResponseFromTestedService(ev,strForEachTestToReturn, token,  true);
             strForEachTestToReturn+=
 "               variable(\"conditionnal\", \"${statusCode}\");\n"+
 "               String conditionnal = context.getVariable(\"conditionnal\");\n";
@@ -384,23 +407,6 @@ str+="                                   .header(\"Content-Type\", \"application
                     else{
                         strForEachVeriyingMock+=arrayListOfReturnFromRestOfTree.get(2);
                     }
-            }
-            else{
-                Status=Integer.toString(ev.getCode());
-
-                FirstPossibleAnswer=ev.getBody().replace("\"", "\\\"");
-
-                strForEachTestToReturn+="\n"+
-"                variable(\"body\",\n"+
-"                \"citrus:message(Response.body())\");\n"+
-"                variable(\"status\", \"${statusCode}\");\n"+
-"                String body = context.getVariable(\"body\");\n"+
-"                String status = context.getVariable(\"status\");\n";
-                        if((!FirstPossibleAnswer.equals("")) && (!FirstPossibleAnswer.contains("timestamp"))){
-                            strForEachTestToReturn+="                assertEquals( \""+FirstPossibleAnswer+"\",body);\n";
-                        }
-               strForEachTestToReturn+=
-"                assertEquals(\""+Status+"\",status);\n"; 
             }
         }
         arrayListOfReturn.add(strForEachTestToReturn);
