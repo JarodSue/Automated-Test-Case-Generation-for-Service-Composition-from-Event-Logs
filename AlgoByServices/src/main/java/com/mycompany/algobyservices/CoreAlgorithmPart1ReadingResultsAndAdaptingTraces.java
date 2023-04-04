@@ -23,15 +23,20 @@ import java.util.HashMap;
  * @author jarod
  */
 public class CoreAlgorithmPart1ReadingResultsAndAdaptingTraces {
-    public static void mainAlgo() throws FileNotFoundException, IOException, InterruptedException{
+    public static void mainAlgo(ArrayList<String> logsLocations,String regexLocation,String resultsLocations) throws FileNotFoundException, IOException, InterruptedException{
         int total=0;
         int nbTestCreated=0;
         ArrayList<File> listOfFiles=new ArrayList<File>();
         final long startTime = System.currentTimeMillis();
         //Path To Your Regex
-        Regex reg = new Regex("C:\\Users\\jarod\\Documents\\tests\\logsprets\\regexLogMieux.txt");
+        //Regex reg = new Regex("C:\\Users\\jarod\\Documents\\tests\\logsprets\\regexLogMieux.txt");
+        Regex reg = new Regex(regexLocation);
         //Path To your logs
-        listOfFiles.add(new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\logs.txt"));
+        for(String logs : logsLocations){
+            listOfFiles.add(new File(logs));
+        }
+        //listOfFiles.add(new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\conditionAcc\\logs.txt"));
+        //listOfFiles.add(new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\conditionAcc\\logs2.txt"));
         ArrayList<Trace> allTraces= new ArrayList<Trace>();
         for(File soloFile : listOfFiles){
             Trace a = Main.mainFile(soloFile, reg );
@@ -62,7 +67,7 @@ public class CoreAlgorithmPart1ReadingResultsAndAdaptingTraces {
                 allTestCasesCreated.add(tc);
             }
             
-            nbTestCreated+=CreatingTestCaseFile.createFile(allTestCasesCreated, str);
+            nbTestCreated+=CreatingTestCaseFile.createFile(allTestCasesCreated, str,resultsLocations);
         }
         final long endTime = System.currentTimeMillis();
         total+=(endTime-startTime);

@@ -25,7 +25,7 @@ public class CreatingTestCaseFile {
     public static boolean isMultiple;
     public static int numberOfResponses;
     
-    public static int createFile(ArrayList<TestCase> test, String PCO) throws IOException, InterruptedException {
+    public static int createFile(ArrayList<TestCase> test, String PCO, String resultsLocation) throws IOException, InterruptedException {
         int nbTestCreated=0;
         numberOfResponses=0;
         try {
@@ -37,7 +37,7 @@ public class CreatingTestCaseFile {
                     nbTestCreated++;
                     nameTC.showTreeForShowing(0);
                  //where the results are gonna be saved
-                File myObj = new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");
+                File myObj = new File(resultsLocation+"\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");
                 if (myObj.createNewFile()) {
                   PrintWriter writer = new PrintWriter(myObj);
                   writer.println(createStringForTestCase(nameTC,numberOfTests));
@@ -45,7 +45,8 @@ public class CreatingTestCaseFile {
                 } else {
                     myObj.delete();
                     //if the results file already exist, delete it and recreate it
-                     File myObj2 = new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");               
+                     //File myObj2 = new File("C:\\Users\\jarod\\Documents\\tests\\logsDernier\\logs\\conditionAcc\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");               
+                     File myObj2 = new File(resultsLocation+"\\testNumber"+numberOfTests+ "ForPCO" + PCO +"Tests.java");
                      PrintWriter writer = new PrintWriter(myObj2);
                   writer.println(createStringForTestCase(nameTC,numberOfTests));
                   writer.close();
@@ -79,7 +80,7 @@ public class CreatingTestCaseFile {
     
     private static String createStringForTestCase(TestCase oneTestCase,int numberOfTests){
         
-        
+        isMultiple=false;
         String PCO=oneTestCase.getPCO();
         int NameForTheFile=numberOfTests;
         int nbTimesMockCalled=0;
@@ -108,8 +109,7 @@ public class CreatingTestCaseFile {
  
             
         String str ="\n" +
-"\n"
-                + "package com.example.accmanager;\n" +
+"\n"+
 "import static com.consol.citrus.actions.ReceiveMessageAction.Builder.receive;\n" +
 "import org.mockserver.matchers.Times;\n"+
 "import static com.consol.citrus.container.Conditional.Builder.conditional;\n"+
@@ -159,9 +159,9 @@ strForEachMock+
 "    @Test\n" +
 "    @CitrusTest\n" +
 "    public void testAlgo1() throws FileNotFoundException{\n" +
-"          String token=\"\";"+   
-"          String body=\"\";"+   
-"          String status=\"\";"+   
+"          String token=\"\";\n"+   
+"          String body=\"\";\n"+   
+"          String status=\"\";\n"+   
 "                            HttpClient toClient = CitrusEndpoints\n" +
 "                                .http()\n" +
 "                                .client()\n" +
@@ -185,8 +185,8 @@ strForEachMock+
 "            mockServer.stop();\n" +
 "        }\n" +
 "    } ";
-        
         return str;
+        
     }
 
     private static String verifyMock(String str, HashMap<String, Integer> mapOfPaths){
@@ -382,7 +382,7 @@ str+="                                   .header(\"Content-Type\", \"application
                     ArrayList<String> arrayListOfReturnFromRestOfTree=createStr(tc,firstRequest, true);
                     strForEachTestToReturn+="\n"+"               "+arrayListOfReturnFromRestOfTree.get(0);
                     strForEachMockToReturn+="\n"+"               "+arrayListOfReturnFromRestOfTree.get(1);
-                     strForEachTestToReturn+="               }";
+                     strForEachTestToReturn+="               }\n";
                     if(isAMockRequest){
                         strForEachVeriyingMock+=ev.getURL();
                         strForEachVeriyingMock+=";"+arrayListOfReturnFromRestOfTree.get(2);

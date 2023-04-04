@@ -18,6 +18,5 @@ com\mycompany\fileReader\main\Main.class
 com\mycompany\fileReader\Split\MapperOptions.class
 com\mycompany\fileReader\Split\Trace.class
 com\mycompany\algobyservices\CoreAlgorithmPart1ReadingResultsAndAdaptingTraces.class
-com\mycompany\algobyservices\CoreAlgorithm2SortingTheClustersForEachService.class
 com\mycompany\models\Conversation.class
 com\mycompany\models\Event.class

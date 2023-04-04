@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
     <artifactId>AlgoGen</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
     
     <properties>
@@ -220,7 +220,26 @@
     
     
     <build>
-    <plugins>
+        
+        
+         <plugins>
+    <plugin>
+      <!-- Build an executable JAR -->
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-jar-plugin</artifactId>
+      <version>3.1.0</version>
+      <configuration>
+        <archive>
+          <manifest>
+            <addClasspath>true</addClasspath>
+            <classpathPrefix>lib/</classpathPrefix>
+            <mainClass>AlgoByServices.Main</mainClass>
+          </manifest>
+        </archive>
+      </configuration>
+    </plugin>
+        
+        
         <plugin>
     <groupId>org.mock-server</groupId>
     <artifactId>mockserver-maven-plugin</artifactId>
