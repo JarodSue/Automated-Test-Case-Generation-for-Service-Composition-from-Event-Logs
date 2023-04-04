@@ -215,9 +215,12 @@ strForEachMock+
 "                                .send()\n" +
 "                                ."+ev.getVerb().toLowerCase()+"(\""+ev.getURL()+"\")\n" +
                 "                                .message()\n" ;
-        if(!ev.getVerb().equals("GET")){
+        if(ev.json){
             
-str+="                                   .header(\"Content-Type\", \"application/json\")\n"+
+str+="                                   .header(\"Content-Type\", \"application/json\")\n"
+        ;}
+        if(ev.getBody().equals("")){
+            str+=
     
 "                                .body(\""+ev.getBody().replace("\"", "\\\"")+"\")\n";
             

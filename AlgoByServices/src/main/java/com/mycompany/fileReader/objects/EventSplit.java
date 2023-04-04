@@ -59,6 +59,7 @@ public class EventSplit {
         public String srcPort;
         public String dstPort;
         public String path;
+        public boolean isJson;
 
 	
 
@@ -68,7 +69,7 @@ public class EventSplit {
 
 	public EventSplit(String line, Matcher m) {
 		ligne= line;
-                
+                isJson=false;
 		date = m.group("date");
 		label = m.group("label");
                 status="";
@@ -88,8 +89,10 @@ public class EventSplit {
                 srcPort=m.group("srcPort");
                 dstPort=m.group("dstPort");
                 path=m.group("path");
-                
                 if(label.contains("JSON")){
+                    isJson=true;
+                }
+                else{
                     body=m.group("body");
                 }
                 verb=m.group("verb");
@@ -135,6 +138,12 @@ public class EventSplit {
 
     public String getPath() {
         return path;
+    }
+    public boolean getIsJson() {
+        return isJson;
+    }
+    public void setIsJson(boolean bool) {
+        this.isJson=bool;
     }
 
     public void setPath(String path) {

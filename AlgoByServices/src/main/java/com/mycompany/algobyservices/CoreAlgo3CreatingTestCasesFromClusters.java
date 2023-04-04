@@ -20,13 +20,14 @@ public class CoreAlgo3CreatingTestCasesFromClusters {
         ArrayList<TestCase> TC= new ArrayList<TestCase>();
         ArrayList<Cluster> ATraces2=new ArrayList<>();
         for(Cluster clust : ATraces){
-            ATraces2.add(new Cluster(clust));
+            ATraces2.add(clust);
         }
-         
+            System.out.println(ATraces2.get(0)==ATraces.get(0));
+            System.out.println(ATraces2.size());
 
         ArrayList<Cluster> usedClusters= new ArrayList<Cluster>();
         for(Cluster clus : ATraces){
-            if(!ATraces2.isEmpty()){
+            if(!ATraces2.isEmpty() && !usedClusters.contains(clus)){
                 ATraces2.remove(0);
                 if(!usedClusters.contains(clus)){
                     boolean isAMultipleTestCase=false;

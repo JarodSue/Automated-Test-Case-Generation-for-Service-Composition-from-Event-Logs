@@ -30,6 +30,7 @@ public class Event {
         public boolean mockNeeded;
         public String body;
         public boolean haveAToken;
+        public boolean json;
         public Event(){
         }
         public Event(EventSplit ev){
@@ -39,7 +40,7 @@ public class Event {
             this.params=new ArrayList<String>();
             this.paramsSess=new ArrayList<String>();
             this.from=ev.getFrom();
-            
+            this.json=ev.getIsJson();
             this.to=ev.getTo(); 
             if(!ev.getBody().equals("")){
                 this.body=ev.getBody();
@@ -74,7 +75,7 @@ public class Event {
             String[] separateMethodAndValue= this.body.split(",");
             
            
-            if(!this.body.equals("")){
+            if((!this.body.equals("")) && json){
                 boolean key=true;
                 boolean multipleKeys=false;
                 String toAdd="{";

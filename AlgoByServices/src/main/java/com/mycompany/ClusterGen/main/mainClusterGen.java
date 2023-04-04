@@ -15,6 +15,8 @@ import java.util.ArrayList;
 //create clusters from the results of the precedent algorithm
 public class mainClusterGen {
     public static ArrayList<Cluster> mainClusterisation(ArrayList<Conversation> listOfAllConversations){
+        System.out.println("nbClust");
+        System.out.println(listOfAllConversations.size());     
         ArrayList<Cluster> listOfCluster=new ArrayList<Cluster>();
         for (Conversation conv : listOfAllConversations){
             AbstractConv abstractedConv = new AbstractConv(conv);
@@ -36,6 +38,8 @@ public class mainClusterGen {
                 
             }
         }
+        System.out.println("nbClust");
+        System.out.println(listOfCluster.size()); 
         return listOfCluster;
     }
     
