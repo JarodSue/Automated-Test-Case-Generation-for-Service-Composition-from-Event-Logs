@@ -14,3 +14,6 @@ In order to use the application, you need to have event files representing one s
 
 example of a regex possible with logs located inside AllLogs/service2/logsSession1.txt captured with wireshark
 "(?<date>\d*.\d*"),\S{1}(?<label>(.*?)(?="))","(?<status>(.*?)(?="))","(?<verb>(.*?)(?="))","(?<path>(.*?)(?="))","(?<srcPort>(.*?)(?="))","(?<dstPort>(.*?)(?="))","(?<body>(.*?)(?="))"
+
+in order to launch the programm, you need to open a console inside the target folder and write:
+java -jar AlgoGen-1.0.jar repositoryOfTheLogs regexPosition resultsLocation
