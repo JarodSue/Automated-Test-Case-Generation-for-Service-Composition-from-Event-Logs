@@ -75,7 +75,7 @@ public class Event {
             String[] separateMethodAndValue= this.body.split(",");
             
            
-            if((!this.body.equals("")) && json){
+            /*if((!this.body.equals("")) && json){
                 boolean key=true;
                 boolean multipleKeys=false;
                 String toAdd="{";
@@ -144,7 +144,7 @@ public class Event {
                 toAdd+="]";
             }
             this.body=toAdd;
-            }
+            }*/
             
   
         }
